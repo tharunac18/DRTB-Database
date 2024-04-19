@@ -1,4 +1,4 @@
-Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 gyrA,Fluoroquinolone (Ciprofloxacin / Ofloxacin / Sparfloxacin),281,GAC - GCC,94,Asp - Ala,NA,7486904
 gyrA,Fluoroquinolone (Ciprofloxacin / Ofloxacin / Sparfloxacin),280,GAC - AAC,94,Asp - Asn,NA,7486904
 gyrA,Fluoroquinolone (Ciprofloxacin / Ofloxacin / Sparfloxacin),280,GAC - AAC,94,Asp - Asn,NA,7486904
