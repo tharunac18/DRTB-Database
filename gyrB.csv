@@ -1,4 +1,4 @@
-Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 gyrB,Fluoroquinolone,1514,GAC - GCC,505,Asp - Ala,NA,12044302
 gyrB,Fluoroquinolone,1514,GAC - GCC,505,Asp - Ala,NA,12044302
 gyrB,Fluoroquinolone,1414,GAC - CAC,472,Asp - His,NA,16377674
