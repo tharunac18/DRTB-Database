@@ -1,4 +1,4 @@
-Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 inhA,Isoniazid,283 -284,ATT - CCT,95,Ile - Pro,Germany and Nepal,7637495
 inhA,Isoniazid,233,GTG - GCG,78,Val - Ala,United States,9728546
 inhA,Isoniazid,47,ATC - ACC,16,Ile - Thr,United States,9728546
