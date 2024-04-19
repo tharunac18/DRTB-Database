@@ -27,7 +27,7 @@
         $db = mysqli_select_db($con,'mirna');
         if(isset($_POST['submit'])){
             $search = $_POST['search'];
-            $sql = "SELECT * from bacmirna where Organism like '%$search%' ";
+            $sql = "SELECT * from DRTB-Database where Gene '%$search%' ";
             $result = mysqli_query($con,$sql);
             if($result){
             if(mysqli_num_rows($result)>0){
