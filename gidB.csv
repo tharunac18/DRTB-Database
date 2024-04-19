@@ -1,4 +1,4 @@
-Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 gidB,Streptomycin,224,C - G,75,Pro - Arg,NA,17238915
 gidB,Streptomycin,380,A - C,127,Gln - Pro,NA,17238915
 gidB,Streptomycin,401,C - A,134,Ala - Glu,NA,17238915
