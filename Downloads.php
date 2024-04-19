@@ -8,13 +8,13 @@
     </head>
     <body>
     <div style="list-style: none;text-align: center;font-size:20px;">
-        <li style="display: inline-block;padding-right: 20px;"><a href="index">Home</a></li>
-        <li style="display: inline-block;padding-right: 20px;"><a href="search">Search</a></li>
-        <li style="display: inline-block;padding-right: 20px;"><a  href="Submit">Submit</a></li>
-        <li style="display: inline-block;padding-right: 20px;"><a  href="Downloads">Downloads</a></li>
+        <li style="display: inline-block;padding-right: 20px;"><a href="index.html">Home</a></li>
+        <li style="display: inline-block;padding-right: 20px;"><a href="search.html">Search</a></li>
+        <li style="display: inline-block;padding-right: 20px;"><a  href="submit.html">Submit</a></li>
+        <li style="display: inline-block;padding-right: 20px;"><a  href="Downloads.html">Downloads</a></li>
     </div>
     <div style="background-color: rgb(224,255,255);margin-top: 40px;margin-bottom: 40px;border-width:2px; border-style:solid; border-color:brown;margin-right: 200px;margin-left: 200px;border-radius: 15px;">
-        <p style="text-align:center;margin-top: 40px;margin-bottom: 40px;font-size:20px;"> Download the database data from the below link <br> <li style="list-style: none;text-align: center;font-size:20px;"> <a href="https://github.com/shobby1212/bacmirna/blob/main/bacmirna.csv"> <b> Download </a></li> </p>
+        <p style="text-align:center;margin-top: 40px;margin-bottom: 40px;font-size:20px;"> Download the database data from the below link <br> <li style="list-style: none;text-align: center;font-size:20px;"> <a href="https://github.com/tharunac18/DRTB-Database/blob/main/DRTB.csv"> <b> Download </a></li> </p>
     </div>
 
 <hr>
