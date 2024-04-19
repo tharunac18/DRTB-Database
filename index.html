@@ -19,7 +19,7 @@
     </div>
     <div style="background-color: rgb(194, 229, 211);margin-top: 40px;margin-bottom: 40px;border-width:2px; border-style:solid; border-color:brown;margin-right: 300px;margin-left: 300px;border-radius: 15px;">
         <p style="text-align:center;margin-top: 40px;margin-bottom: 20px;font-size:20px;"> <b> Database Statistics </b> </p>
-        <p style="text-align:center;margin-top: 20px;margin-bottom: 40px;font-size:15px;"> Total bacterial miRNA sequence entries : 939 <br> <b> Organism specific entries </b> <br> <i> Escherichia coli </i> DH10B : 370 <br> <i> Streptococcus mutans </i> (ATCC 25175) : 18 <br> <i> Mycobacterium leprae </i> : 16 <br> <i> Thalassospira  alkalitolerans </i> JCM 18968T : 32 <br> <i> Thalassospita mesophila </i> JCM 18969T : 6 <br> <i> Thalassospira povalilytica </i> Zumi 95T : 20 <br> <i> Thalassospira profundimaris </i> WP0211T : 78 <br> <i> Thalassospira xianhensis </i> P-4T : 47 <br> <i> Thalassospira lucentensis </i> QMT2T : 172 <br> <i> Thalassospira australica </i> NP 3b2T : 88 <br> <i> Thalassospira tepidiphila </i> 1-1BT : 70 <br> <i> Thalassospira xiamenensis </i> M-5T : 22 <br> </p>
+        <p style="text-align:center;margin-top: 20px;margin-bottom: 40px;font-size:15px;"> Total Mutation entries : 3427 <br> <b> Gene specific entries </b> <br> <i> rpoB : 729 <br> <i> pncA : 1200 <br> <i> inhA : 20 <br> <i> katG : 534 <br> <i> embC : 35 <br> <i> gidB : 178 <br> <i> rpsL : 113 <br> <i> rrs : 202 <br> <i> gyrA : 108 <br> <i> gyrB : 70 <br> </p>
     </div>
 
 <hr>
