@@ -3,8 +3,8 @@
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-        <title>Bac-miRNA - A comprehensive database for bacterial miRNAs</title>
-        <h3 style="text-align: center;margin-top: 40px;margin-bottom: 40px;">Bac-miRNA - A comprehensive database for bacterial miRNAs</h3>
+        <title>DRTB-DB - Database for Drug Resistant Tuberculosis</title>
+        <h3 style="text-align: center;margin-top: 40px;margin-bottom: 40px;">DRTB-DB - Database for Drug Resistant Tuberculosis</h3>
     </head>
     <body>
     <div style="list-style: none;text-align: center;font-size:20px;">
