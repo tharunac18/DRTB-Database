@@ -1,4 +1,4 @@
-Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 embB,Ethambutol,988,TTC - GTC,330,Phe - Val,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
 embB,Ethambutol,918,ATG - ATA,306,Met - Ile,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
 embB,Ethambutol,918,ATG - ATT,306,Met - Ile,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
