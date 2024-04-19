@@ -1,4 +1,4 @@
-Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 rpsL,Streptomycin,128,AAG - ACG,43,Lys - Thr,NA,7934937
 rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,NA,7934937
 rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,NA,7934937
