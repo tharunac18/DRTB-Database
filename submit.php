@@ -43,7 +43,7 @@
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 class="display-4">DRTB-DB</h1>
-      <p class="lead">Databse for Drug Resistant Tuberculosis</p>
+      <p class="lead">Database for Drug Resistant Tuberculosis</p>
     </div>
   </div>
 
