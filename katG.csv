@@ -1,535 +1,535 @@
 Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
-KatG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,7746145
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,7746145
-KatG,Isoniazid,1759,CTG - ATG,587,Leu - Met,NA,7746145
-KatG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,NA,7746145
-KatG,Isoniazid,2,GTG - GCG,1,Val - Ala,NA,7746145
-KatG,Isoniazid,373 - 375,CAT - Insertion,125,His - Insertion,NA,7746145
-KatG,Isoniazid,358 - 369,Deletion,120 -123,Deletion,NA,7746145
-KatG,Isoniazid,1513,TGG - CGG,505,Trp - Arg,NA,7798673
-KatG,Isoniazid,1765,CCC - ACC,589,Pro - Thr,NA,7798673
-KatG,Isoniazid,1285,CCG - TCG,429,Pro - Ser,NA,7798673
-KatG,Isoniazid,1010,TAC - TGC,337,Tyr - Cys,NA,7798673
-KatG,Isoniazid,506,GGC - GCC,169,Gly - Ala,NA,7798673
-KatG,Isoniazid,1649,GCC - GAC,550,Ala - Asp,NA,7798673
-KatG,Isoniazid,773,AAC - AGC,258,Asn - Ser,NA,7798673
-KatG,Isoniazid,790,GCG - ACG,264,Ala - Thr,NA,7798673
-KatG,Isoniazid,906,AGC - AGG,302,Ser - Arg,NA,7798673
-KatG,Isoniazid,193,GCC - ACC,65,Ala - Thr,NA,7798673
-KatG,Isoniazid,378,ATG - ATA,126,Met - Ile,NA,7798673
-KatG,Isoniazid,670,CAG - GAG,224,Gln - Glu,NA,7798673
-KatG,Isoniazid,727,GCC - TCC,243,Ala - Ser,NA,7798673
-KatG,Isoniazid,842,GCC - GTC,281,Ala - Val,NA,7798673
-KatG,Isoniazid,56,GGC - GAC,19,Gly - Asp,NA,7798673
-KatG,Isoniazid,196,GCG - CCG,66,Ala - Pro,NA,7798673
-KatG,Isoniazid,1271,GCG - GTG,424,Ala - Val,NA,7798673
-KatG,Isoniazid,1827,ATG - ATT / ATG - ATC or ATG - ATA,609,Met - Ile,NA,7798673
-KatG,Isoniazid,50,AGC - AAC,17,Ser - Asn,NA,7798673
-KatG,Isoniazid,1271,GCG - GAG,424,Ala - Glu,NA,7798673
-KatG,Isoniazid,1010,TAC - TTC,337,Tyr - Phe,NA,7798673
-KatG,Isoniazid,4,CCC - TCC,2,Pro - Ser,NA,7798673
-KatG,Isoniazid,270,TGG - TGA,90,Trp - Stop,NA,7798673
-KatG,Isoniazid,Deletion,8bp - Deletion,NA,NA,NA,7798673
-KatG,Isoniazid,322 - 324,NA,108,His - Gln,NA,8585728
-KatG,Isoniazid,784 - 786,NA,262,Thr - Arg,NA,8585728
-KatG,Isoniazid,1885,G - A,629,Gly - Ser,NA,8585728
-KatG,Isoniazid,189,NA,63,Asp - Glu,NA,8585728
-KatG,Isoniazid,944,G - C,315,Ser - Thr,NA,8585728
-KatG,Isoniazid,1048,G - T,350,Ala - Ser,NA,8585728
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,NA,8585728
-KatG,Isoniazid,1003,T - C,335,Ile - Thr,NA,8585728
-KatG,Isoniazid,2149,G - C,717,Ala - Pro,NA,8585728
-KatG,Isoniazid,2084,GAC - GCC,695,Asp - Ala,NA,8619582
-KatG,Isoniazid,1225 - 1226,GCC - CGC,409,Ala - Arg,NA,8619582
-KatG,Isoniazid,823,ACC - GCC,275,Thr - Ala,NA,8619582
-KatG,Isoniazid,157 - 168,CCGTCGCTGACC - Deletion,52 - 57,Ala Val Ala Asp Pro - Deletion,NA,8619582
-KatG,Isoniazid,898,TGG - GGG,300,Trp - Gly,Finland,8878604
-KatG,Isoniazid,1501,C - G,501,Pro - Ala,Finland,8878604
-KatG,Isoniazid,1464,G - C,488,Lys - Asn,Finland,8878604
-KatG,Isoniazid,944 - 945,GC - CA,315,Ser - Thr,Finland,8878604
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Finland,8878604
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,Finland,8878604
-KatG,Isoniazid,883,C - T,295,Gln - Stop,Finland,8878604
-KatG,Isoniazid,195,C - CCCCC,NA,NA,Finland,8878604
-KatG,Isoniazid,1849,C - CAC,NA,NA,Finland,8878604
-KatG,Isoniazid,961,T - G,321,Trp - Gly,NA,8939440
-KatG,Isoniazid,326 - 324,NA,270,His - Gln,NA,8939440
-KatG,Isoniazid,323 - 324,NA,108,His - Gln,NA,8939440
-KatG,Isoniazid,311,G - T,104,Arg - Leu,NA,8939440
-KatG,Isoniazid,1142,A - G,381,Asp - Gly,NA,8939440
-KatG,Isoniazid,443,T - G,148,Leu - Arg,NA,8939440
-KatG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,8939440
-KatG,Isoniazid,413,AAC - AGC,138,Asn - Ser,NA,8939440
-KatG,Isoniazid,1048,G - A,350,Ala - Thr,NA,8939440
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,8939440
-KatG,Isoniazid,1387,C - G,463,Arg - Gly,NA,8939440
-KatG,Isoniazid,1759,NA,587,Leu - Met,NA,8939440
-KatG,Isoniazid,419,AGC - AAC,140,Ser - Asn,NA,8939440
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,NA,8939440
-KatG,Isoniazid,984,TGG - TGC,328,Trp - Cys,South Africa,9210694
-KatG,Isoniazid,983,TGG - TTG,328,Trp - Leu,South Africa,9210694
-KatG,Isoniazid,944,AGC - ATC,315,Ser - Ile,South Africa,9210694
-KatG,Isoniazid,943,AGC - CGC,315,Ser - Arg,South Africa,9210694
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,South Africa,9210694
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,South Africa,9210694
-KatG,Isoniazid,464,A - C,155,Tyr - Ser,St. Petersburg in Russia,9736581
-KatG,Isoniazid,263,A - G,88,Gln - Arg,St. Petersburg in Russia,9736581
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,St. Petersburg in Russia,9736581
-KatG,Isoniazid,1760,T - C,587,Leu - Pro,NA,10051449
-KatG,Isoniazid,58 - 60,G - C,20,Cys - Ser,NA,10051449
-KatG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,10051449
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,10051449
-KatG,Isoniazid,1759,NA,587,Leu - Met,NA,10051449
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,NA,10051449
-KatG,Isoniazid,871,GCT - CCT,291,Ala - Pro,Scotland,10074516
-KatG,Isoniazid,383,CGG - CAG,128,Arg - Gln,Scotland,10074516
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Scotland,10074516
-KatG,Isoniazid,1007,T - G,336,Leu - Arg,Singapore,10428945
-KatG,Isoniazid,906,AGC - AGG,302,Ser - Arg,Singapore,10428945
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Singapore,10428945
-KatG,Isoniazid,943 - 945,NA,315,Ser - Asn,Singapore,10428945
-KatG,Isoniazid,898 - 900,NA,300,Trp - Stop,Singapore,10428945
-KatG,Isoniazid,425,GAC - GCC,142,Asp - Ala,NA,10645439
-KatG,Isoniazid,322 - 324,CAC - GAA or CAC - GAG,108,His - Glu,NA,10645439
-KatG,Isoniazid,281,GAC - GCC,94,Asp - Ala,NA,10645439
-KatG,Isoniazid,1700,TTC - TCC,567,Phe - Ser,NA,10645439
-KatG,Isoniazid,296,GGG - GAG,99,Gly - Glu,NA,10645439
-KatG,Isoniazid,1178,ATC - AAC,393,Ile - Asn,NA,10645439
-KatG,Isoniazid,1778,GGC - GAC,593,Gly - Asp,NA,10645439
-KatG,Isoniazid,1454,GGT - GTT,485,Gly - Val,NA,10645439
-KatG,Isoniazid,479,TCA - TTA,160,Ser - Leu,NA,10645439
-KatG,Isoniazid,754,TTT - CTT,252,Phe - Leu,NA,10645439
-KatG,Isoniazid,538 - 540,NA,180,Thr - Cys,NA,10645439
-KatG,Isoniazid,212,ATC - AAC,71,Ile - Asn,NA,10645439
-KatG,Isoniazid,443,CTG - GCG,148,Leu - Ala,NA,10645439
-KatG,Isoniazid,2129,GTC - GCC,710,Val - Ala,NA,10645439
-KatG,Isoniazid,943,AGC - GGC,315,Ser - Gly,NA,10645439
-KatG,Isoniazid,1721,GCG - GTG,574,Ala - Val,NA,10645439
-KatG,Isoniazid,418 - 419,AGC - GCC,140,Ser - Ala,NA,10645439
-KatG,Isoniazid,419,AGC - AAC,140,Ser - Asn,NA,10645439
-KatG,Isoniazid,337 - 339,Deletion,113,Deletion,NA,10645439
-KatG,Isoniazid,358 - 360,Deletion,120,Deletion,NA,10645439
-KatG,Isoniazid,364 - 366,Deletion,122,Deletion,NA,10645439
-KatG,Isoniazid,367 - 369,Deletion,123,Deletion,NA,10645439
-KatG,Isoniazid,448,CCG - GCG,150,Leu - Ala,NA,10645439
-KatG,Isoniazid,594,TGG - TGA,198,Trp - Stop,NA,10645439
-KatG,Isoniazid,598,AAG - TAG,200,Lys - Stop,NA,10645439
-KatG,Isoniazid,649 - 651,Insertion,217,NA,NA,10645439
-KatG,Isoniazid,865 - 867,Insertion,289,NA,NA,10645439
-KatG,Isoniazid,1001,T - C,334,Ile - Thr,NA,10645439
-KatG,Isoniazid,1431,TGG - TGA,477,Trp - Stop,NA,10645439
-KatG,Isoniazid,1531 - 1533,Insertion,511,NA,NA,10645439
-KatG,Isoniazid,1537 - 1539,Insertion,513,NA,NA,10645439
-KatG,Isoniazid,1561 - 1563,Insertion,521,NA,NA,10645439
-KatG,Isoniazid,962 - 963,NA,321,Trp - Phe,NA,11742122
-KatG,Isoniazid,103,A - G,35,Asn - Asp,North India,11796356
-KatG,Isoniazid,34,A - C,12,Thr - Pro,North India,11796356
-KatG,Isoniazid,181,G - A,61,Ala - Thr,North India,11796356
-KatG,Isoniazid,31,A - G,11,Thr - Ala,North India,11796356
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,North India,11796356
-KatG,Isoniazid,217,G - A,73,Asp - Asn,North India,11796356
-KatG,Isoniazid,30,C - Deletion,NA,NA,North India,11796356
-KatG,Isoniazid,98,A - Insertion,NA,NA,North India,11796356
-KatG,Isoniazid,109,G - Deletion,NA,NA,North India,11796356
-KatG,Isoniazid,185,C - Insertion,NA,NA,North India,11796356
-KatG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,12183541
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,12183541
-KatG,Isoniazid,2204,A - C,735,Asp - Ala,NA,12543676
-KatG,Isoniazid,1856,T - C,619,Leu - Pro,NA,12543676
-KatG,Isoniazid,329,C - T,110,Ala - Val,NA,12543676
-KatG,Isoniazid,1900 - 1902,NA,634,Leu - Phe,NA,12543676
-KatG,Isoniazid,415,G - C,139,Ala - Pro,NA,12543676
-KatG,Isoniazid,943 - 945,NA,315,Ser - Asn,NA,12543676
-KatG,Isoniazid,944,AGC - ATC,315,Ser - Ile,NA,12654653
-KatG,Isoniazid,1585,AAC - GAC,529,Asn - Asp,NA,12654653
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,12654653
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,NA,12654653
-KatG,Isoniazid,1190 - 1191,TGG - TAC,397,Trp - Tyr,NA,12654653
-KatG,Isoniazid,269,TGG - TAG,90,Trp - Stop,NA,12654653
-KatG,Isoniazid,1300,CAG - TAG,434,Gln - Stop,NA,12654653
-KatG,Isoniazid,926,GGT - GAT,309,Gly - Asp,South Korea,14596968
-KatG,Isoniazid,943,AGC - CGC,315,Ser - Arg,South Korea,14596968
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,South Korea,14596968
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,South Korea,14596968
-KatG,Isoniazid,1022,G - C,341,Trp - Ser,Brazil,14638486
-KatG,Isoniazid,413,A - C,138,Asn - Thr,United States,14638486
-KatG,Isoniazid,836,GGC - GAC,279,Gly - Asp,Brazil,14638486
-KatG,Isoniazid,583,G - A,195,Glu - Lys,United States,14638486
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Russia,14638486
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,United States,14638486
-KatG,Isoniazid,745,CGC - TGC,249,Arg - Cys,Monterrey in Mexico,14729930
-KatG,Isoniazid,920,GGA - GAA,307,Gly - Glu,Monterrey in Mexico,14729930
-KatG,Isoniazid,2180,GCC - GAC,727,Ala - Asp,Monterrey in Mexico,14729930
-KatG,Isoniazid,823,ACC - TCC,275,Thr - Ser,Monterrey in Mexico,14729930
-KatG,Isoniazid,944,AGC - ACA,315,Ser - Thr,Monterrey in Mexico,14729930
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Monterrey in Mexico,14729930
-KatG,Isoniazid,961,T - G,321,Trp - Gly,NA,15650370
-KatG,Isoniazid,1253,G - A,418,Arg - Gln,NA,15650370
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,15650370
-KatG,Isoniazid,944,AGC - ATC,315,Ser - Ile,England and Wales,15793126
-KatG,Isoniazid,944,AGC - ACA,315,Ser - Thr,England and Wales,15793126
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,England and Wales,15793126
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,England and Wales,15793126
-KatG,Isoniazid,324 - 324,NA,108,His - Gln,NA,16173777
-KatG,Isoniazid,311,G - T,104,Arg - Leu,NA,16173777
-KatG,Isoniazid,1253,G - T,418,Arg - Leu,NA,16173777
-KatG,Isoniazid,686,A - T,229,Tyr - Phe,NA,16173777
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,16173777
-KatG,Isoniazid,944,AGC - ACA,315,Ser - Thr,Victoria in Australia,16189082
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Victoria in Australia,16189082
-KatG,Isoniazid,1471,G - T,491,Gly - Cys,China,16272473
-KatG,Isoniazid,2053,G - C,685,Gly - Arg,China,16272473
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,China,16272473
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,China,16272473
-KatG,Isoniazid,1543 - 1544,CG - TA,515,Arg - Tyr,China,16272473
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,China,16272473
-KatG,Isoniazid,1559,64bp - Deletion,NA,NA,China,16272473
-KatG,Isoniazid,1329,A - Insertion,NA,NA,China,16272473
-KatG,Isoniazid,219 - 221,NA,107,Trp - Arg,San Francisco in United States,16789833
-KatG,Isoniazid,2182 - 2184,NA,728,Trp - Cys,San Francisco in United States,16789833
-KatG,Isoniazid,1010,TAC - TGC,337,Tyr - Cys,San Francisco in United States,16789833
-KatG,Isoniazid,944,AGC - ATC,315,Ser - Ile,San Francisco in United States,16789833
-KatG,Isoniazid,428,A - C,143,Lys - Thr,San Francisco in United States,16789833
-KatG,Isoniazid,412,AAC - GAC,138,Asn - Asp,San Francisco in United States,16789833
-KatG,Isoniazid,1717,G - A,573,Asp - Asn,San Francisco in United States,16789833
-KatG,Isoniazid,1034,A - C,345,Lys - Thr,San Francisco in United States,16789833
-KatG,Isoniazid,2203,G - A,735,Asp - Asn,San Francisco in United States,16789833
-KatG,Isoniazid,686,A - T,229,Tyr - Phe,San Francisco in United States,16789833
-KatG,Isoniazid,310 - 312,NA,104,Arg - Gln,San Francisco in United States,16789833
-KatG,Isoniazid,790,GCG - ACG,264,Ala - Thr,San Francisco in United States,16789833
-KatG,Isoniazid,217,C - T,106,Ala - Val,San Francisco in United States,16789833
-KatG,Isoniazid,326,C - T,109,Ala - Val,San Francisco in United States,16789833
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,San Francisco in United States,16789833
-KatG,Isoniazid,943 - 945,NA,315,Ser - Asn,San Francisco in United States,16789833
-KatG,Isoniazid,1180,A - G,394,Thr - Ala,San Francisco in United States,16789833
-KatG,Isoniazid,1,G - C,1,Val - Leu,San Francisco in United States,16789833
-KatG,Isoniazid,961,TGG - GGG,321,Trp - Gly,NA,16870753
-KatG,Isoniazid,2204,GAC - GCC,735,Asp - Ala,NA,16870753
-KatG,Isoniazid,383,CGG - CCG,128,Arg - Pro,NA,16870753
-KatG,Isoniazid,947,GGC - GAC,316,Gly - Asp,NA,16870753
-KatG,Isoniazid,944,AGC - ATC,315,Ser - Ile,NA,16870753
-KatG,Isoniazid,412,AAC - GAC,138,Asn - Asp,NA,16870753
-KatG,Isoniazid,412,AAC - CAC,138,Asn - His,NA,16870753
-KatG,Isoniazid,413,AAC - AGC,138,Asn - Ser,NA,16870753
-KatG,Isoniazid,945,AGC - AGG,315,Ser - Arg,NA,16870753
-KatG,Isoniazid,514,GCG - ACG,172,Ala - Thr,NA,16870753
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,16870753
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,NA,16870753
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,NA,16870753
-KatG,Isoniazid,1543,CGC - TGC,515,Arg - Cys,NA,16870753
-KatG,Isoniazid,961,TGG - CGG,321,Trp - Arg,Hong Kong,17360809
-KatG,Isoniazid,557,GGC - GTC,186,Gly - Val,Hong Kong,17360809
-KatG,Isoniazid,373,GGC - TGC,125,Gly - Cys,Hong Kong,17360809
-KatG,Isoniazid,464,TAC - TGC,155,Tyr - Cys,Hong Kong,17360809
-KatG,Isoniazid,895,GGC - TGC,299,Gly - Cys,Hong Kong,17360809
-KatG,Isoniazid,700,GGG - AGG,234,Gly - Arg,Hong Kong,17360809
-KatG,Isoniazid,932,GAC - GGC,311,Asp - Gly,Hong Kong,17360809
-KatG,Isoniazid,380,CAG - CCG,127,Gln - Pro,Hong Kong,17360809
-KatG,Isoniazid,1226,GCC - GAC,409,Ala - Asp,Hong Kong,17360809
-KatG,Isoniazid,823,ACC - CCC,275,Thr - Pro,Hong Kong,17360809
-KatG,Isoniazid,1139,ACT - ATT,380,Thr - Ile,Hong Kong,17360809
-KatG,Isoniazid,220,GAC - TAC,74,Asp - Tyr,Hong Kong,17360809
-KatG,Isoniazid,707,AAC - ACC,236,Asn - Thr,Hong Kong,17360809
-KatG,Isoniazid,689,GTG - GCG,230,Val - Ala,Hong Kong,17360809
-KatG,Isoniazid,515,GCG - GTG,172,Ala - Val,Hong Kong,17360809
-KatG,Isoniazid,790,GCG - ACG,264,Ala - Thr,Hong Kong,17360809
-KatG,Isoniazid,528,ATG - ATA,176,Met - Ile,Hong Kong,17360809
-KatG,Isoniazid,884,CAG - CCG,295,Gln - Pro,Hong Kong,17360809
-KatG,Isoniazid,221,GAC - GGC,74,Asp - Gly,Hong Kong,17360809
-KatG,Isoniazid,654,AAC - AAA,218,Asn - Lys,Hong Kong,17360809
-KatG,Isoniazid,867,GAG - GAC,289,Glu - Asp,Hong Kong,17360809
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Hong Kong,17360809
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Hong Kong,17360809
-KatG,Isoniazid,252,ATG - ATA,84,Met - Ile,Hong Kong,17360809
-KatG,Isoniazid,501,TTC - TTT,167,Phe - Phe,Hong Kong,17360809
-KatG,Isoniazid,753,ACG - ACC,251,Thr - Thr,Hong Kong,17360809
-KatG,Isoniazid,981,AAA - AAG,327,Lys - Lys,Hong Kong,17360809
-KatG,Isoniazid,1242,AAG - AAA,414,Lys - Lys,Hong Kong,17360809
-KatG,Isoniazid,949,ATC - CTC,317,Ile - Leu,Hong Kong,17360809
-KatG,Isoniazid,190,GGC - TGC,64,Gly - Cys,Hong Kong,17360809
-KatG,Isoniazid,212,GAC - GGC,71,Asp - Gly,Hong Kong,17360809
-KatG,Isoniazid,573,TGG - TG*,191,NA,Hong Kong,17360809
-KatG,Isoniazid,804,GGC - GC*,268,NA,Hong Kong,17360809
-KatG,Isoniazid,1038,AGC - AC*,346,NA,Hong Kong,17360809
-KatG,Isoniazid,945,AGC - AGA,315,Ser - Arg,Russia,17403134
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Russia,17403134
-KatG,Isoniazid,1003,ATC - GTC,335,Ile - Val,Russia,17403134
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,17539290
-KatG,Isoniazid,922,A - C,308,Thr - Pro,NA,17539290
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,NA,17539290
-KatG,Isoniazid,946,GGC - AGC,316,Gly - Ser,Belarus,18445950
-KatG,Isoniazid,945,AGC - AGG,315,Ser - Arg,Belarus,18445950
-KatG,Isoniazid,1069,GAC - CAC,357,Asp - His,Belarus,18445950
-KatG,Isoniazid,1360 - 1362,GAG - CGA,454,Glu - Arg,Belarus,18445950
-KatG,Isoniazid,943,AGC - GGC,315,Ser - Gly,Belarus,18445950
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Belarus,18445950
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Belarus,18445950
-KatG,Isoniazid,1069,GAC - AAC,357,Asp - Asn,Belarus,18445950
-KatG,Isoniazid,927,GGT - GGG,309,Gly - Gly,Belarus,18445950
-KatG,Isoniazid,942,ACC - ACG,314,Thr - Thr,Belarus,18445950
-KatG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Belarus,18445950
-KatG,Isoniazid,917,CCG - CCC,306,Pro - Pro,Belarus,18445950
-KatG,Isoniazid,926,GGT - GTT,309,Cys - Phe,Belarus,18445950
-KatG,Isoniazid,926 - 927,GGT - GTC,309,Cys - Phe,Belarus,18445950
-KatG,Isoniazid,926,GGT - GCT,309,Cys - Ser,Belarus,18445950
-KatG,Isoniazid,927,GGT - GGG,309,Cys - Thr,Belarus,18445950
-KatG,Isoniazid,853,GGC - TGC,285,Gly - Cys,Japan,18508939
-KatG,Isoniazid,1010,TAC - TGC,337,Tyr - Cys,Japan,18508939
-KatG,Isoniazid,650,GAG - GGG,217,Glu - Gly,Japan,18508939
-KatG,Isoniazid,1030,ACG - CCG,344,Thr - Pro,Japan,18508939
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Japan,18508939
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Japan,18508939
-KatG,Isoniazid,594,TGG - TGA,198,Trp - Stop,Japan,18508939
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Iran,19090721
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Iran,19090721
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,Iran,19090721
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Argentina,19228426
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Peru,19228426
-KatG,Isoniazid,943 - 945,NA,315,Ser - Asn,Peru,19228426
-KatG,Isoniazid,943,AGC - GGC,315,Ser - Gly,NA,19363028
-KatG,Isoniazid,983,G - C,328,Trp - Ser,Thailand,19486070
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Thailand,19486070
-KatG,Isoniazid,943 - 945,NA,315,Ser - Asn,Thailand,19486070
-KatG,Isoniazid,1271,C - G,424,Ala - Gly,Thailand,19486070
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,Thailand,19486070
-KatG,Isoniazid,742,G - A,248,Val - Ile,Thailand,19486070
-KatG,Isoniazid,1054,C - T,352,Gln - Stop,Thailand,19486070
-KatG,Isoniazid,944,AGC - ACA,315,Ser - Thr,Taiwan,19494067
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Taiwan,19494067
-KatG,Isoniazid,1007,TAC - TGC,336,Tyr - Cys,Ontario in Canada,19520719
-KatG,Isoniazid,944,AGC - ATC,315,Ser - Ile,Ontario in Canada,19520719
-KatG,Isoniazid,1242,AAG - AAC,414,Lys - Asn,Ontario in Canada,19520719
-KatG,Isoniazid,911,TAT - TCT,304,Tyr - Ser,Ontario in Canada,19520719
-KatG,Isoniazid,943,AGC - GGC,315,Ser - Gly,Ontario in Canada,19520719
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Ontario in Canada,19520719
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Ontario in Canada,19520719
-KatG,Isoniazid,1370,AGC - ATC,457,Ser - Ile,Ontario in Canada,19520719
-KatG,Isoniazid,953,GAG - GTA,318,Glu - Val,Veracruz in Mexico,19547874
-KatG,Isoniazid,933,GAC - GAG,311,Asp - Glu,Veracruz in Mexico,19547874
-KatG,Isoniazid,991,AGT - TGT,331,Ser - Cys,Veracruz in Mexico,19547874
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Veracruz in Mexico,19547874
-KatG,Isoniazid,936,GCG - GCA,312,Ala - Ala,Veracruz in Mexico,19547874
-KatG,Isoniazid,219 - 221,NA,107,Trp - Arg,NA,20054829
-KatG,Isoniazid,982,T - G,328,Trp - Gly,NA,20054829
-KatG,Isoniazid,898,TGG - GGG,300,Trp - Gly,NA,20054829
-KatG,Isoniazid,325 - 324,NA,108,His - Gln,NA,20054829
-KatG,Isoniazid,323 - 324,NA,108,His - Glu,NA,20054829
-KatG,Isoniazid,311,G - T,104,Arg - Leu,NA,20054829
-KatG,Isoniazid,1010,TAC - TGC,337,Tyr - Cys,NA,20054829
-KatG,Isoniazid,784 - 786,NA,262,Thr - Arg,NA,20054829
-KatG,Isoniazid,1885,G - A,629,Gly - Ser,NA,20054829
-KatG,Isoniazid,944,AGC - ATC,315,Ser - Ile,NA,20054829
-KatG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,20054829
-KatG,Isoniazid,412,AAC - GAC,138,Asn - Asp,NA,20054829
-KatG,Isoniazid,413,AAC - AGC,138,Asn - Ser,NA,20054829
-KatG,Isoniazid,943 - 945,NA,315,Ser - Arg,NA,20054829
-KatG,Isoniazid,686,A - T,229,Tyr - Phe,NA,20054829
-KatG,Isoniazid,943,AGC - GGC,315,Ser - Gly,NA,20054829
-KatG,Isoniazid,189,NA,63,Asp - Glu,NA,20054829
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,20054829
-KatG,Isoniazid,1048,G - T,350,Ala - Ser,NA,20054829
-KatG,Isoniazid,943 - 945,NA,315,Ser - Asn,NA,20054829
-KatG,Isoniazid,1759,NA,587,Leu - Met,NA,20054829
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,NA,20054829
-KatG,Isoniazid,2203,G - A,735,Asp - Asn,NA,20054829
-KatG,Isoniazid,571 - 576,Deletion,191 - 192,Trp Glu - Deletion,Japan,20211896
-KatG,Isoniazid,694,C - T,232,Pro - Ser,Japan,20211896
-KatG,Isoniazid,1894,C - T,632,Arg - Cys,Japan,20211896
-KatG,Isoniazid,368,G - A,123,Gly - Glu,Japan,20211896
-KatG,Isoniazid,1624,G - C,542,Asp - His,Japan,20211896
-KatG,Isoniazid,1255,G - C,419,Asp - His,Japan,20211896
-KatG,Isoniazid,1159,G - C,387,Asp - His,Japan,20211896
-KatG,Isoniazid,290,A - G,97,His - Arg,Japan,20211896
-KatG,Isoniazid,1465,C - A,489,Arg - Ser,Japan,20211896
-KatG,Isoniazid,895,G - A,299,Gly - Ser,Japan,20211896
-KatG,Isoniazid,1259,T - C,420,Met - Thr,Japan,20211896
-KatG,Isoniazid,398,A - C,133,Asn - Thr,Japan,20211896
-KatG,Isoniazid,527,T - C,176,Met - Thr,Japan,20211896
-KatG,Isoniazid,945,AGC - AGA,315,Ser - Arg,Japan,20211896
-KatG,Isoniazid,1147,T - C,383,Ser - Pro,Japan,20211896
-KatG,Isoniazid,379,C - G,127,Gln - Glu,Japan,20211896
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Japan,20211896
-KatG,Isoniazid,195,C - T,65,Ala - Ala,Japan,20211896
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,Japan,20211896
-KatG,Isoniazid,371,G - Deletion,NA,NA,Japan,20211896
-KatG,Isoniazid,478 - 479,Deletion,NA,NA,Japan,20211896
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Mumbai in India,22260344
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,North Eastern Uttar Pradesh in India,23325741
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,North Eastern Uttar Pradesh in India,23325741
-KatG,Isoniazid,464,TAC-TCC,155,Tyr - Ser,Los Angeles in United States,23453008
-KatG,Isoniazid,436,CGG - TGG,146,Arg - Trp,Los Angeles in United States,23453008
-KatG,Isoniazid,1493,CGC - CAC,498,Arg - His,Los Angeles in United States,23453008
-KatG,Isoniazid,215,ATG - ATA,105,Met - Ile,Los Angeles in United States,23453008
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Los Angeles in United States,23453008
-KatG,Isoniazid,838,CCG-TCG,280,Pro - Ser,Los Angeles in United States,23453008
-KatG,Isoniazid,271,T - C,91,Trp - Arg,Warsaw in Poland,23744165
-KatG,Isoniazid,392,C - G,131,Pro - Arg,Warsaw in Poland,23744165
-KatG,Isoniazid,392,C - A,131,Pro - Gln,Warsaw in Poland,23744165
-KatG,Isoniazid,302,T - C,101,Leu - Pro,Warsaw in Poland,23744165
-KatG,Isoniazid,944,AGC - ATC,315,Ser - Ile,Warsaw in Poland,23744165
-KatG,Isoniazid,580,G - T,194,Asp - Tyr,Warsaw in Poland,23744165
-KatG,Isoniazid,383,CGG - CAG,128,Arg - Gln,Warsaw in Poland,23744165
-KatG,Isoniazid,203,T - G,68,Val - Gly,Warsaw in Poland,23744165
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Warsaw in Poland,23744165
-KatG,Isoniazid,944 - 945,GC - CT,315,Ser - Thr,Warsaw in Poland,23744165
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Warsaw in Poland,23744165
-KatG,Isoniazid,378,ATG - ATA,126,Met - Ile,Warsaw in Poland,23744165
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,Warsaw in Poland,23744165
-KatG,Isoniazid,135,T - Insertion,46,Stop,Warsaw in Poland,23744165
-KatG,Isoniazid,701,C - G,234,Ala - Gly,Warsaw in Poland,23744165
-KatG,Isoniazid,701,C - G,234,Ala - Gly,Warsaw in Poland,23744165
-KatG,Isoniazid,1360,G - T,454,Stop,Warsaw in Poland,23744165
-KatG,Isoniazid,293,TAC - TGC,98,Tyr - Cys,Taiwan,24184004
-KatG,Isoniazid,805,GGT - CGT,269,Gly - Arg,Taiwan,24184004
-KatG,Isoniazid,380,CAG - CCG,127,Gln - Pro,Taiwan,24184004
-KatG,Isoniazid,1054,CAA - GAA,352,Gln - Glu,Taiwan,24184004
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Taiwan,24184004
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Taiwan,24184004
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Taiwan,24184004
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Taiwan,24184004
-KatG,Isoniazid,606,GCC - GCA,202,Ala - Ala,Taiwan,24184004
-KatG,Isoniazid,609,ACC - ACT,203,Thr - Thr,Taiwan,24184004
-KatG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Taiwan,24184004
-KatG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Taiwan,24184004
-KatG,Isoniazid,1516,GAG - TAG,506,Glu - Stop,Taiwan,24184004
-KatG,Isoniazid,944,AGC - ATC,315,Ser - Ile,Rio de Janeiro in Brazil,25093512
-KatG,Isoniazid,277,GCC - ACC,93,Ala - Thr,Rio de Janeiro in Brazil,25093512
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Rio de Janeiro in Brazil,25093512
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Rio de Janeiro in Brazil,25093512
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Rio de Janeiro in Brazil,25093512
-KatG,Isoniazid,50,AGC - ACC,17,Ser - Thr,Rio de Janeiro in Brazil,25093512
-KatG,Isoniazid,1197,GAA - GAG,399,Glu - Glu,Rio de Janeiro in Brazil,25093512
-KatG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Rio de Janeiro in Brazil,25093512
-KatG,Isoniazid,2,GTG - GCG,1,Val - Ala,Rio de Janeiro in Brazil,25093512
-KatG,Isoniazid,1293,G - Deletion,431,NA,Rio de Janeiro in Brazil,25093512
-KatG,Isoniazid,392,CCG - ACG,131,Pro - Thr,NA,26251830
-KatG,Isoniazid,806,GGT - GAT,269,Gly - Asp,NA,26251830
-KatG,Isoniazid,425,GAC - GGC,142,Asp - Gly,NA,26251830
-KatG,Isoniazid,1160,GAT - GGT,387,Asp - Gly,NA,26251830
-KatG,Isoniazid,1622,GCC - GAC,541,Ala - Asp,NA,26251830
-KatG,Isoniazid,139,GTA - GAA,47,Val - Glu,NA,26251830
-KatG,Isoniazid,1787,AAC - AGC,596,Asn - Ser,NA,26251830
-KatG,Isoniazid,581,GAT - GGT,194,Asp - Gly,NA,26251830
-KatG,Isoniazid,95,GGC - GAC,32,Gly - Asp,NA,26251830
-KatG,Isoniazid,485,GCG - GTG,162,Ala - Val,NA,26251830
-KatG,Isoniazid,766,GCC - ACC,256,Ala - Thr,NA,26251830
-KatG,Isoniazid,916,ACC - CCC,306,Thr - Pro,NA,26251830
-KatG,Isoniazid,1870,ATG - GTG,624,Met - Val,NA,26251830
-KatG,Isoniazid,1181,ACG - ATG,394,Thr - Met,NA,26251830
-KatG,Isoniazid,1999,ACC - CCC,667,Thr - Pro,NA,26251830
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Uttar Pradesh in India,27287637
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Uttar Pradesh in India,27287637
-KatG,Isoniazid,944,G - C,315,Ser - Thr,Ghana,27450017
-KatG,Isoniazid,1313,TGG - TCG,438,Trp - Ser,Quebec in Canada,27459848
-KatG,Isoniazid,1124,CCG - CGG,375,Pro - Arg,Quebec in Canada,27459848
-KatG,Isoniazid,1159,GAT - CAT,387,Asp - His,Quebec in Canada,27459848
-KatG,Isoniazid,1238,TAC - TGC,413,Tyr - Cys,Quebec in Canada,27459848
-KatG,Isoniazid,1349,GTC - GAC,450,Val - Asp,Quebec in Canada,27459848
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Quebec in Canada,27459848
-KatG,Isoniazid,1342,GAC - AAC,448,Asp - Asn,Quebec in Canada,27459848
-KatG,Isoniazid,1351,GGC - AGC,451,Gly - Ser,Quebec in Canada,27459848
-KatG,Isoniazid,1028,TGA - TAA,343,Stop - Stop,Quebec in Canada,27459848
-KatG,Isoniazid,1284,G - Deletion,NA,NA,Quebec in Canada,27459848
-KatG,Isoniazid,182,GTG - GGA,61,Val - Gly,NA,27540322
-KatG,Isoniazid,184,GCG - ACG,62,Ala - Thr,NA,27540322
-KatG,Isoniazid,712,TCG - GCG,238,Ser - Ala,NA,27540322
-KatG,Isoniazid,713,CTC - CGC,238,Leu - Arg,NA,27540322
-KatG,Isoniazid,740,CTC - CGC,247,Gln - His,NA,27540322
-KatG,Isoniazid,1021,T - G,341,Trp - Gly,France,27553406
-KatG,Isoniazid,809,A - G,270,His - Arg,France,27553406
-KatG,Isoniazid,1481,G - A,494,Gly - Asp,France,27553406
-KatG,Isoniazid,566,A - G,189,Asp - Gly,France,27553406
-KatG,Isoniazid,353,G - A,118,Gly - Asp,France,27553406
-KatG,Isoniazid,362,G - A,121,Gly - Asp,France,27553406
-KatG,Isoniazid,1007,T - C,336,Leu - Pro,France,27553406
-KatG,Isoniazid,1972 - 1974,NA,658,Phe - Val,France,27553406
-KatG,Isoniazid,423,NA,141,Leu - Ser,France,27553406
-KatG,Isoniazid,746,CGC - CAC,249,Arg - His,France,27553406
-KatG,Isoniazid,485,C - A,162,Ala - Glu,France,27553406
-KatG,Isoniazid,329,C - T,110,Ala - Val,France,27553406
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,France,27553406
-KatG,Isoniazid,1382,A - C,461,Gln - Pro,France,27553406
-KatG,Isoniazid,1783 - 1785,NA,595,Arg - Stop,France,27553406
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Galicia in Spain,27586016
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Veracruz and Baja California in Mexico,27637930
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Veracruz and Baja California in Mexico,27637930
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Lithuania,27641092
-KatG,Isoniazid,826 - 828,CAT - ATG,276,His - Met,Chennai in India,27873643
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Chennai in India,27873643
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Chennai in India,27873643
-KatG,Isoniazid,885,CAG - CAT,295,Gln - His,Chennai in India,27873643
-KatG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Chennai in India,27873643
-KatG,Isoniazid,103,ACT - CCT,35,Thr - Pro,Chennai in India,27873643
-KatG,Isoniazid,139 - 141,TGC - CGG,47,Cys - Pro,Chennai in India,27873643
-KatG,Isoniazid,5,A - T,3,Glu - Val,San Francisco in United States,27893795
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,central Ethiopia,27931690
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Northern India,28043502
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Pakistan,28043516
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Central India,28053915
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Central India,28053915
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,28092681
-KatG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,NA,28245964
-KatG,Isoniazid,1586,AAC - ACA,529,Asp - Thr,NA,28245964
-KatG,Isoniazid,1586,AAC - CAC,529,Asp - His,NA,28245964
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Wuhan in China,28438132
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Wuhan in China,28438132
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,United States,28513421
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Soochow in China,28565846
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Cameroon,28569148
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Cameroon,28569148
-KatG,Isoniazid,898,TGG - GGG,300,Trp - Gly,Yunnan Province in China,28623123
-KatG,Isoniazid,906,AGC - AGG,302,Ser - Arg,Yunnan Province in China,28623123
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Yunnan Province in China,28623123
-KatG,Isoniazid,1388,G - T,463,Arg - Leu,Yunnan Province in China,28623123
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,eastern Uttar Pradesh in India,28631643
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,India,28793376
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,India,28793376
-KatG,Isoniazid,946,GGC - AGC,316,Gly - Ser,Khyber Pakhtunkhwa in Pakistan,28839308
-KatG,Isoniazid,946,GGC - AGC,316,Gly - Ser,Khyber Pakhtunkhwa in Pakistan,28839308
-KatG,Isoniazid,943,AGC - CGC,315,Ser - Arg,Khyber Pakhtunkhwa in Pakistan,28839308
-KatG,Isoniazid,943 - 945,NA,315,Ser - Arg,Khyber Pakhtunkhwa in Pakistan,28839308
-KatG,Isoniazid,908,TCG - TGG,303,Ser - Trp,Khyber Pakhtunkhwa in Pakistan,28839308
-KatG,Isoniazid,908,TCG - TGG,303,Ser - Trp,Khyber Pakhtunkhwa in Pakistan,28839308
-KatG,Isoniazid,821,A - G,274,Lys - Arg,Khyber Pakhtunkhwa in Pakistan,28839308
-KatG,Isoniazid,821,AAG - AGG,274,Lys - Arg,Khyber Pakhtunkhwa in Pakistan,28839308
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Khyber Pakhtunkhwa in Pakistan,28839308
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Khyber Pakhtunkhwa in Pakistan,28839308
-KatG,Isoniazid,943 - 945,NA,315,Ser - Leu,Zimbabwe,28904673
-KatG,Isoniazid,907 - 909,NA,303,Ser - Leu,Zimbabwe,28904673
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Morocco,28993300
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Morocco,28993300
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Chennai in India,29050763
-KatG,Isoniazid,836,GGC - GAC,279,Gly - Asp,NA,29066301
-KatG,Isoniazid,2204,A - C,735,Asp - Ala,Lisbon in Portugal,29091448
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Lisbon in Portugal,29091448
-KatG,Isoniazid,943 - 945,NA,315,Ser - Asn,Lisbon in Portugal,29091448
-KatG,IQG -607,944,AGC - ACC,315,Ser - Thr,NA,29158273
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Ethiopia,29191227
-KatG,Isoniazid,546 - 551,GTTCGG - Deletion,183 - 184,Phe Gly - Deletion,NA,29242075
-KatG,Isoniazid,728,C - A,243,Ala - Asp,NA,29242075
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,29242075
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,NA,29242075
-KatG,Isoniazid,943,AGC - GGC,315,Ser - Gly,Bangladesh,29459669
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,29459669
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Morocco,29486710
-KatG,Isoniazid,943,AGC - CGC,315,Ser - Arg,Kyrgyz Republic,29566660
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Kyrgyz Republic,29566660
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Kyrgyz Republic,29566660
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,29604431
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,NA,29604431
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Addis Ababa in Ethiopia,29675262
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Addis Ababa in Ethiopia,29675262
-KatG,Isoniazid,635,GGT - GAT,212,Gly - Asp,Sri Lanka,29683767
-KatG,Isoniazid,945,AGC - AGA,315,Ser - Arg,Sri Lanka,29683767
-KatG,Isoniazid,823,ACC - GCC,275,Thr - Ala,Sri Lanka,29683767
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Sri Lanka,29683767
-KatG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Sri Lanka,29683767
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Sri Lanka,29683767
-KatG,Isoniazid,879,CTA - CTG,293,Leu - Leu,Sri Lanka,29683767
-KatG,Isoniazid,1563,CTG - CTC,521,Leu - Leu,Sri Lanka,29683767
-KatG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Sri Lanka,29683767
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,29779779
-KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Changchun in China,29788948
-KatG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Changchun in China,29788948
-KatG,Isoniazid,NA,NA,315,Ser - Thr ,China,26486879
-KatG,Isoniazid,NA,NA,315,Ser - Leu,Spain,27586016
+katG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,7746145
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,7746145
+katG,Isoniazid,1759,CTG - ATG,587,Leu - Met,NA,7746145
+katG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,NA,7746145
+katG,Isoniazid,2,GTG - GCG,1,Val - Ala,NA,7746145
+katG,Isoniazid,373 - 375,CAT - Insertion,125,His - Insertion,NA,7746145
+katG,Isoniazid,358 - 369,Deletion,120 -123,Deletion,NA,7746145
+katG,Isoniazid,1513,TGG - CGG,505,Trp - Arg,NA,7798673
+katG,Isoniazid,1765,CCC - ACC,589,Pro - Thr,NA,7798673
+katG,Isoniazid,1285,CCG - TCG,429,Pro - Ser,NA,7798673
+katG,Isoniazid,1010,TAC - TGC,337,Tyr - Cys,NA,7798673
+katG,Isoniazid,506,GGC - GCC,169,Gly - Ala,NA,7798673
+katG,Isoniazid,1649,GCC - GAC,550,Ala - Asp,NA,7798673
+katG,Isoniazid,773,AAC - AGC,258,Asn - Ser,NA,7798673
+katG,Isoniazid,790,GCG - ACG,264,Ala - Thr,NA,7798673
+katG,Isoniazid,906,AGC - AGG,302,Ser - Arg,NA,7798673
+katG,Isoniazid,193,GCC - ACC,65,Ala - Thr,NA,7798673
+katG,Isoniazid,378,ATG - ATA,126,Met - Ile,NA,7798673
+katG,Isoniazid,670,CAG - GAG,224,Gln - Glu,NA,7798673
+katG,Isoniazid,727,GCC - TCC,243,Ala - Ser,NA,7798673
+katG,Isoniazid,842,GCC - GTC,281,Ala - Val,NA,7798673
+katG,Isoniazid,56,GGC - GAC,19,Gly - Asp,NA,7798673
+katG,Isoniazid,196,GCG - CCG,66,Ala - Pro,NA,7798673
+katG,Isoniazid,1271,GCG - GTG,424,Ala - Val,NA,7798673
+katG,Isoniazid,1827,ATG - ATT / ATG - ATC or ATG - ATA,609,Met - Ile,NA,7798673
+katG,Isoniazid,50,AGC - AAC,17,Ser - Asn,NA,7798673
+katG,Isoniazid,1271,GCG - GAG,424,Ala - Glu,NA,7798673
+katG,Isoniazid,1010,TAC - TTC,337,Tyr - Phe,NA,7798673
+katG,Isoniazid,4,CCC - TCC,2,Pro - Ser,NA,7798673
+katG,Isoniazid,270,TGG - TGA,90,Trp - Stop,NA,7798673
+katG,Isoniazid,Deletion,8bp - Deletion,NA,NA,NA,7798673
+katG,Isoniazid,322 - 324,NA,108,His - Gln,NA,8585728
+katG,Isoniazid,784 - 786,NA,262,Thr - Arg,NA,8585728
+katG,Isoniazid,1885,G - A,629,Gly - Ser,NA,8585728
+katG,Isoniazid,189,NA,63,Asp - Glu,NA,8585728
+katG,Isoniazid,944,G - C,315,Ser - Thr,NA,8585728
+katG,Isoniazid,1048,G - T,350,Ala - Ser,NA,8585728
+katG,Isoniazid,1388,G - T,463,Arg - Leu,NA,8585728
+katG,Isoniazid,1003,T - C,335,Ile - Thr,NA,8585728
+katG,Isoniazid,2149,G - C,717,Ala - Pro,NA,8585728
+katG,Isoniazid,2084,GAC - GCC,695,Asp - Ala,NA,8619582
+katG,Isoniazid,1225 - 1226,GCC - CGC,409,Ala - Arg,NA,8619582
+katG,Isoniazid,823,ACC - GCC,275,Thr - Ala,NA,8619582
+katG,Isoniazid,157 - 168,CCGTCGCTGACC - Deletion,52 - 57,Ala Val Ala Asp Pro - Deletion,NA,8619582
+katG,Isoniazid,898,TGG - GGG,300,Trp - Gly,Finland,8878604
+katG,Isoniazid,1501,C - G,501,Pro - Ala,Finland,8878604
+katG,Isoniazid,1464,G - C,488,Lys - Asn,Finland,8878604
+katG,Isoniazid,944 - 945,GC - CA,315,Ser - Thr,Finland,8878604
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Finland,8878604
+katG,Isoniazid,1388,G - T,463,Arg - Leu,Finland,8878604
+katG,Isoniazid,883,C - T,295,Gln - Stop,Finland,8878604
+katG,Isoniazid,195,C - CCCCC,NA,NA,Finland,8878604
+katG,Isoniazid,1849,C - CAC,NA,NA,Finland,8878604
+katG,Isoniazid,961,T - G,321,Trp - Gly,NA,8939440
+katG,Isoniazid,326 - 324,NA,270,His - Gln,NA,8939440
+katG,Isoniazid,323 - 324,NA,108,His - Gln,NA,8939440
+katG,Isoniazid,311,G - T,104,Arg - Leu,NA,8939440
+katG,Isoniazid,1142,A - G,381,Asp - Gly,NA,8939440
+katG,Isoniazid,443,T - G,148,Leu - Arg,NA,8939440
+katG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,8939440
+katG,Isoniazid,413,AAC - AGC,138,Asn - Ser,NA,8939440
+katG,Isoniazid,1048,G - A,350,Ala - Thr,NA,8939440
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,8939440
+katG,Isoniazid,1387,C - G,463,Arg - Gly,NA,8939440
+katG,Isoniazid,1759,NA,587,Leu - Met,NA,8939440
+katG,Isoniazid,419,AGC - AAC,140,Ser - Asn,NA,8939440
+katG,Isoniazid,1388,G - T,463,Arg - Leu,NA,8939440
+katG,Isoniazid,984,TGG - TGC,328,Trp - Cys,South Africa,9210694
+katG,Isoniazid,983,TGG - TTG,328,Trp - Leu,South Africa,9210694
+katG,Isoniazid,944,AGC - ATC,315,Ser - Ile,South Africa,9210694
+katG,Isoniazid,943,AGC - CGC,315,Ser - Arg,South Africa,9210694
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,South Africa,9210694
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,South Africa,9210694
+katG,Isoniazid,464,A - C,155,Tyr - Ser,St. Petersburg in Russia,9736581
+katG,Isoniazid,263,A - G,88,Gln - Arg,St. Petersburg in Russia,9736581
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,St. Petersburg in Russia,9736581
+katG,Isoniazid,1760,T - C,587,Leu - Pro,NA,10051449
+katG,Isoniazid,58 - 60,G - C,20,Cys - Ser,NA,10051449
+katG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,10051449
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,10051449
+katG,Isoniazid,1759,NA,587,Leu - Met,NA,10051449
+katG,Isoniazid,1388,G - T,463,Arg - Leu,NA,10051449
+katG,Isoniazid,871,GCT - CCT,291,Ala - Pro,Scotland,10074516
+katG,Isoniazid,383,CGG - CAG,128,Arg - Gln,Scotland,10074516
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Scotland,10074516
+katG,Isoniazid,1007,T - G,336,Leu - Arg,Singapore,10428945
+katG,Isoniazid,906,AGC - AGG,302,Ser - Arg,Singapore,10428945
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Singapore,10428945
+katG,Isoniazid,943 - 945,NA,315,Ser - Asn,Singapore,10428945
+katG,Isoniazid,898 - 900,NA,300,Trp - Stop,Singapore,10428945
+katG,Isoniazid,425,GAC - GCC,142,Asp - Ala,NA,10645439
+katG,Isoniazid,322 - 324,CAC - GAA or CAC - GAG,108,His - Glu,NA,10645439
+katG,Isoniazid,281,GAC - GCC,94,Asp - Ala,NA,10645439
+katG,Isoniazid,1700,TTC - TCC,567,Phe - Ser,NA,10645439
+katG,Isoniazid,296,GGG - GAG,99,Gly - Glu,NA,10645439
+katG,Isoniazid,1178,ATC - AAC,393,Ile - Asn,NA,10645439
+katG,Isoniazid,1778,GGC - GAC,593,Gly - Asp,NA,10645439
+katG,Isoniazid,1454,GGT - GTT,485,Gly - Val,NA,10645439
+katG,Isoniazid,479,TCA - TTA,160,Ser - Leu,NA,10645439
+katG,Isoniazid,754,TTT - CTT,252,Phe - Leu,NA,10645439
+katG,Isoniazid,538 - 540,NA,180,Thr - Cys,NA,10645439
+katG,Isoniazid,212,ATC - AAC,71,Ile - Asn,NA,10645439
+katG,Isoniazid,443,CTG - GCG,148,Leu - Ala,NA,10645439
+katG,Isoniazid,2129,GTC - GCC,710,Val - Ala,NA,10645439
+katG,Isoniazid,943,AGC - GGC,315,Ser - Gly,NA,10645439
+katG,Isoniazid,1721,GCG - GTG,574,Ala - Val,NA,10645439
+katG,Isoniazid,418 - 419,AGC - GCC,140,Ser - Ala,NA,10645439
+katG,Isoniazid,419,AGC - AAC,140,Ser - Asn,NA,10645439
+katG,Isoniazid,337 - 339,Deletion,113,Deletion,NA,10645439
+katG,Isoniazid,358 - 360,Deletion,120,Deletion,NA,10645439
+katG,Isoniazid,364 - 366,Deletion,122,Deletion,NA,10645439
+katG,Isoniazid,367 - 369,Deletion,123,Deletion,NA,10645439
+katG,Isoniazid,448,CCG - GCG,150,Leu - Ala,NA,10645439
+katG,Isoniazid,594,TGG - TGA,198,Trp - Stop,NA,10645439
+katG,Isoniazid,598,AAG - TAG,200,Lys - Stop,NA,10645439
+katG,Isoniazid,649 - 651,Insertion,217,NA,NA,10645439
+katG,Isoniazid,865 - 867,Insertion,289,NA,NA,10645439
+katG,Isoniazid,1001,T - C,334,Ile - Thr,NA,10645439
+katG,Isoniazid,1431,TGG - TGA,477,Trp - Stop,NA,10645439
+katG,Isoniazid,1531 - 1533,Insertion,511,NA,NA,10645439
+katG,Isoniazid,1537 - 1539,Insertion,513,NA,NA,10645439
+katG,Isoniazid,1561 - 1563,Insertion,521,NA,NA,10645439
+katG,Isoniazid,962 - 963,NA,321,Trp - Phe,NA,11742122
+katG,Isoniazid,103,A - G,35,Asn - Asp,North India,11796356
+katG,Isoniazid,34,A - C,12,Thr - Pro,North India,11796356
+katG,Isoniazid,181,G - A,61,Ala - Thr,North India,11796356
+katG,Isoniazid,31,A - G,11,Thr - Ala,North India,11796356
+katG,Isoniazid,1388,G - T,463,Arg - Leu,North India,11796356
+katG,Isoniazid,217,G - A,73,Asp - Asn,North India,11796356
+katG,Isoniazid,30,C - Deletion,NA,NA,North India,11796356
+katG,Isoniazid,98,A - Insertion,NA,NA,North India,11796356
+katG,Isoniazid,109,G - Deletion,NA,NA,North India,11796356
+katG,Isoniazid,185,C - Insertion,NA,NA,North India,11796356
+katG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,12183541
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,12183541
+katG,Isoniazid,2204,A - C,735,Asp - Ala,NA,12543676
+katG,Isoniazid,1856,T - C,619,Leu - Pro,NA,12543676
+katG,Isoniazid,329,C - T,110,Ala - Val,NA,12543676
+katG,Isoniazid,1900 - 1902,NA,634,Leu - Phe,NA,12543676
+katG,Isoniazid,415,G - C,139,Ala - Pro,NA,12543676
+katG,Isoniazid,943 - 945,NA,315,Ser - Asn,NA,12543676
+katG,Isoniazid,944,AGC - ATC,315,Ser - Ile,NA,12654653
+katG,Isoniazid,1585,AAC - GAC,529,Asn - Asp,NA,12654653
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,12654653
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,NA,12654653
+katG,Isoniazid,1190 - 1191,TGG - TAC,397,Trp - Tyr,NA,12654653
+katG,Isoniazid,269,TGG - TAG,90,Trp - Stop,NA,12654653
+katG,Isoniazid,1300,CAG - TAG,434,Gln - Stop,NA,12654653
+katG,Isoniazid,926,GGT - GAT,309,Gly - Asp,South Korea,14596968
+katG,Isoniazid,943,AGC - CGC,315,Ser - Arg,South Korea,14596968
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,South Korea,14596968
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,South Korea,14596968
+katG,Isoniazid,1022,G - C,341,Trp - Ser,Brazil,14638486
+katG,Isoniazid,413,A - C,138,Asn - Thr,United States,14638486
+katG,Isoniazid,836,GGC - GAC,279,Gly - Asp,Brazil,14638486
+katG,Isoniazid,583,G - A,195,Glu - Lys,United States,14638486
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Russia,14638486
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,United States,14638486
+katG,Isoniazid,745,CGC - TGC,249,Arg - Cys,Monterrey in Mexico,14729930
+katG,Isoniazid,920,GGA - GAA,307,Gly - Glu,Monterrey in Mexico,14729930
+katG,Isoniazid,2180,GCC - GAC,727,Ala - Asp,Monterrey in Mexico,14729930
+katG,Isoniazid,823,ACC - TCC,275,Thr - Ser,Monterrey in Mexico,14729930
+katG,Isoniazid,944,AGC - ACA,315,Ser - Thr,Monterrey in Mexico,14729930
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Monterrey in Mexico,14729930
+katG,Isoniazid,961,T - G,321,Trp - Gly,NA,15650370
+katG,Isoniazid,1253,G - A,418,Arg - Gln,NA,15650370
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,15650370
+katG,Isoniazid,944,AGC - ATC,315,Ser - Ile,England and Wales,15793126
+katG,Isoniazid,944,AGC - ACA,315,Ser - Thr,England and Wales,15793126
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,England and Wales,15793126
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,England and Wales,15793126
+katG,Isoniazid,324 - 324,NA,108,His - Gln,NA,16173777
+katG,Isoniazid,311,G - T,104,Arg - Leu,NA,16173777
+katG,Isoniazid,1253,G - T,418,Arg - Leu,NA,16173777
+katG,Isoniazid,686,A - T,229,Tyr - Phe,NA,16173777
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,16173777
+katG,Isoniazid,944,AGC - ACA,315,Ser - Thr,Victoria in Australia,16189082
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Victoria in Australia,16189082
+katG,Isoniazid,1471,G - T,491,Gly - Cys,China,16272473
+katG,Isoniazid,2053,G - C,685,Gly - Arg,China,16272473
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,China,16272473
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,China,16272473
+katG,Isoniazid,1543 - 1544,CG - TA,515,Arg - Tyr,China,16272473
+katG,Isoniazid,1388,G - T,463,Arg - Leu,China,16272473
+katG,Isoniazid,1559,64bp - Deletion,NA,NA,China,16272473
+katG,Isoniazid,1329,A - Insertion,NA,NA,China,16272473
+katG,Isoniazid,219 - 221,NA,107,Trp - Arg,San Francisco in United States,16789833
+katG,Isoniazid,2182 - 2184,NA,728,Trp - Cys,San Francisco in United States,16789833
+katG,Isoniazid,1010,TAC - TGC,337,Tyr - Cys,San Francisco in United States,16789833
+katG,Isoniazid,944,AGC - ATC,315,Ser - Ile,San Francisco in United States,16789833
+katG,Isoniazid,428,A - C,143,Lys - Thr,San Francisco in United States,16789833
+katG,Isoniazid,412,AAC - GAC,138,Asn - Asp,San Francisco in United States,16789833
+katG,Isoniazid,1717,G - A,573,Asp - Asn,San Francisco in United States,16789833
+katG,Isoniazid,1034,A - C,345,Lys - Thr,San Francisco in United States,16789833
+katG,Isoniazid,2203,G - A,735,Asp - Asn,San Francisco in United States,16789833
+katG,Isoniazid,686,A - T,229,Tyr - Phe,San Francisco in United States,16789833
+katG,Isoniazid,310 - 312,NA,104,Arg - Gln,San Francisco in United States,16789833
+katG,Isoniazid,790,GCG - ACG,264,Ala - Thr,San Francisco in United States,16789833
+katG,Isoniazid,217,C - T,106,Ala - Val,San Francisco in United States,16789833
+katG,Isoniazid,326,C - T,109,Ala - Val,San Francisco in United States,16789833
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,San Francisco in United States,16789833
+katG,Isoniazid,943 - 945,NA,315,Ser - Asn,San Francisco in United States,16789833
+katG,Isoniazid,1180,A - G,394,Thr - Ala,San Francisco in United States,16789833
+katG,Isoniazid,1,G - C,1,Val - Leu,San Francisco in United States,16789833
+katG,Isoniazid,961,TGG - GGG,321,Trp - Gly,NA,16870753
+katG,Isoniazid,2204,GAC - GCC,735,Asp - Ala,NA,16870753
+katG,Isoniazid,383,CGG - CCG,128,Arg - Pro,NA,16870753
+katG,Isoniazid,947,GGC - GAC,316,Gly - Asp,NA,16870753
+katG,Isoniazid,944,AGC - ATC,315,Ser - Ile,NA,16870753
+katG,Isoniazid,412,AAC - GAC,138,Asn - Asp,NA,16870753
+katG,Isoniazid,412,AAC - CAC,138,Asn - His,NA,16870753
+katG,Isoniazid,413,AAC - AGC,138,Asn - Ser,NA,16870753
+katG,Isoniazid,945,AGC - AGG,315,Ser - Arg,NA,16870753
+katG,Isoniazid,514,GCG - ACG,172,Ala - Thr,NA,16870753
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,16870753
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,NA,16870753
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,NA,16870753
+katG,Isoniazid,1543,CGC - TGC,515,Arg - Cys,NA,16870753
+katG,Isoniazid,961,TGG - CGG,321,Trp - Arg,Hong Kong,17360809
+katG,Isoniazid,557,GGC - GTC,186,Gly - Val,Hong Kong,17360809
+katG,Isoniazid,373,GGC - TGC,125,Gly - Cys,Hong Kong,17360809
+katG,Isoniazid,464,TAC - TGC,155,Tyr - Cys,Hong Kong,17360809
+katG,Isoniazid,895,GGC - TGC,299,Gly - Cys,Hong Kong,17360809
+katG,Isoniazid,700,GGG - AGG,234,Gly - Arg,Hong Kong,17360809
+katG,Isoniazid,932,GAC - GGC,311,Asp - Gly,Hong Kong,17360809
+katG,Isoniazid,380,CAG - CCG,127,Gln - Pro,Hong Kong,17360809
+katG,Isoniazid,1226,GCC - GAC,409,Ala - Asp,Hong Kong,17360809
+katG,Isoniazid,823,ACC - CCC,275,Thr - Pro,Hong Kong,17360809
+katG,Isoniazid,1139,ACT - ATT,380,Thr - Ile,Hong Kong,17360809
+katG,Isoniazid,220,GAC - TAC,74,Asp - Tyr,Hong Kong,17360809
+katG,Isoniazid,707,AAC - ACC,236,Asn - Thr,Hong Kong,17360809
+katG,Isoniazid,689,GTG - GCG,230,Val - Ala,Hong Kong,17360809
+katG,Isoniazid,515,GCG - GTG,172,Ala - Val,Hong Kong,17360809
+katG,Isoniazid,790,GCG - ACG,264,Ala - Thr,Hong Kong,17360809
+katG,Isoniazid,528,ATG - ATA,176,Met - Ile,Hong Kong,17360809
+katG,Isoniazid,884,CAG - CCG,295,Gln - Pro,Hong Kong,17360809
+katG,Isoniazid,221,GAC - GGC,74,Asp - Gly,Hong Kong,17360809
+katG,Isoniazid,654,AAC - AAA,218,Asn - Lys,Hong Kong,17360809
+katG,Isoniazid,867,GAG - GAC,289,Glu - Asp,Hong Kong,17360809
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Hong Kong,17360809
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Hong Kong,17360809
+katG,Isoniazid,252,ATG - ATA,84,Met - Ile,Hong Kong,17360809
+katG,Isoniazid,501,TTC - TTT,167,Phe - Phe,Hong Kong,17360809
+katG,Isoniazid,753,ACG - ACC,251,Thr - Thr,Hong Kong,17360809
+katG,Isoniazid,981,AAA - AAG,327,Lys - Lys,Hong Kong,17360809
+katG,Isoniazid,1242,AAG - AAA,414,Lys - Lys,Hong Kong,17360809
+katG,Isoniazid,949,ATC - CTC,317,Ile - Leu,Hong Kong,17360809
+katG,Isoniazid,190,GGC - TGC,64,Gly - Cys,Hong Kong,17360809
+katG,Isoniazid,212,GAC - GGC,71,Asp - Gly,Hong Kong,17360809
+katG,Isoniazid,573,TGG - TG*,191,NA,Hong Kong,17360809
+katG,Isoniazid,804,GGC - GC*,268,NA,Hong Kong,17360809
+katG,Isoniazid,1038,AGC - AC*,346,NA,Hong Kong,17360809
+katG,Isoniazid,945,AGC - AGA,315,Ser - Arg,Russia,17403134
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Russia,17403134
+katG,Isoniazid,1003,ATC - GTC,335,Ile - Val,Russia,17403134
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,17539290
+katG,Isoniazid,922,A - C,308,Thr - Pro,NA,17539290
+katG,Isoniazid,1388,G - T,463,Arg - Leu,NA,17539290
+katG,Isoniazid,946,GGC - AGC,316,Gly - Ser,Belarus,18445950
+katG,Isoniazid,945,AGC - AGG,315,Ser - Arg,Belarus,18445950
+katG,Isoniazid,1069,GAC - CAC,357,Asp - His,Belarus,18445950
+katG,Isoniazid,1360 - 1362,GAG - CGA,454,Glu - Arg,Belarus,18445950
+katG,Isoniazid,943,AGC - GGC,315,Ser - Gly,Belarus,18445950
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Belarus,18445950
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Belarus,18445950
+katG,Isoniazid,1069,GAC - AAC,357,Asp - Asn,Belarus,18445950
+katG,Isoniazid,927,GGT - GGG,309,Gly - Gly,Belarus,18445950
+katG,Isoniazid,942,ACC - ACG,314,Thr - Thr,Belarus,18445950
+katG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Belarus,18445950
+katG,Isoniazid,917,CCG - CCC,306,Pro - Pro,Belarus,18445950
+katG,Isoniazid,926,GGT - GTT,309,Cys - Phe,Belarus,18445950
+katG,Isoniazid,926 - 927,GGT - GTC,309,Cys - Phe,Belarus,18445950
+katG,Isoniazid,926,GGT - GCT,309,Cys - Ser,Belarus,18445950
+katG,Isoniazid,927,GGT - GGG,309,Cys - Thr,Belarus,18445950
+katG,Isoniazid,853,GGC - TGC,285,Gly - Cys,Japan,18508939
+katG,Isoniazid,1010,TAC - TGC,337,Tyr - Cys,Japan,18508939
+katG,Isoniazid,650,GAG - GGG,217,Glu - Gly,Japan,18508939
+katG,Isoniazid,1030,ACG - CCG,344,Thr - Pro,Japan,18508939
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Japan,18508939
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Japan,18508939
+katG,Isoniazid,594,TGG - TGA,198,Trp - Stop,Japan,18508939
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Iran,19090721
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Iran,19090721
+katG,Isoniazid,1388,G - T,463,Arg - Leu,Iran,19090721
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Argentina,19228426
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Peru,19228426
+katG,Isoniazid,943 - 945,NA,315,Ser - Asn,Peru,19228426
+katG,Isoniazid,943,AGC - GGC,315,Ser - Gly,NA,19363028
+katG,Isoniazid,983,G - C,328,Trp - Ser,Thailand,19486070
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Thailand,19486070
+katG,Isoniazid,943 - 945,NA,315,Ser - Asn,Thailand,19486070
+katG,Isoniazid,1271,C - G,424,Ala - Gly,Thailand,19486070
+katG,Isoniazid,1388,G - T,463,Arg - Leu,Thailand,19486070
+katG,Isoniazid,742,G - A,248,Val - Ile,Thailand,19486070
+katG,Isoniazid,1054,C - T,352,Gln - Stop,Thailand,19486070
+katG,Isoniazid,944,AGC - ACA,315,Ser - Thr,Taiwan,19494067
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Taiwan,19494067
+katG,Isoniazid,1007,TAC - TGC,336,Tyr - Cys,Ontario in Canada,19520719
+katG,Isoniazid,944,AGC - ATC,315,Ser - Ile,Ontario in Canada,19520719
+katG,Isoniazid,1242,AAG - AAC,414,Lys - Asn,Ontario in Canada,19520719
+katG,Isoniazid,911,TAT - TCT,304,Tyr - Ser,Ontario in Canada,19520719
+katG,Isoniazid,943,AGC - GGC,315,Ser - Gly,Ontario in Canada,19520719
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Ontario in Canada,19520719
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Ontario in Canada,19520719
+katG,Isoniazid,1370,AGC - ATC,457,Ser - Ile,Ontario in Canada,19520719
+katG,Isoniazid,953,GAG - GTA,318,Glu - Val,Veracruz in Mexico,19547874
+katG,Isoniazid,933,GAC - GAG,311,Asp - Glu,Veracruz in Mexico,19547874
+katG,Isoniazid,991,AGT - TGT,331,Ser - Cys,Veracruz in Mexico,19547874
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Veracruz in Mexico,19547874
+katG,Isoniazid,936,GCG - GCA,312,Ala - Ala,Veracruz in Mexico,19547874
+katG,Isoniazid,219 - 221,NA,107,Trp - Arg,NA,20054829
+katG,Isoniazid,982,T - G,328,Trp - Gly,NA,20054829
+katG,Isoniazid,898,TGG - GGG,300,Trp - Gly,NA,20054829
+katG,Isoniazid,325 - 324,NA,108,His - Gln,NA,20054829
+katG,Isoniazid,323 - 324,NA,108,His - Glu,NA,20054829
+katG,Isoniazid,311,G - T,104,Arg - Leu,NA,20054829
+katG,Isoniazid,1010,TAC - TGC,337,Tyr - Cys,NA,20054829
+katG,Isoniazid,784 - 786,NA,262,Thr - Arg,NA,20054829
+katG,Isoniazid,1885,G - A,629,Gly - Ser,NA,20054829
+katG,Isoniazid,944,AGC - ATC,315,Ser - Ile,NA,20054829
+katG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,20054829
+katG,Isoniazid,412,AAC - GAC,138,Asn - Asp,NA,20054829
+katG,Isoniazid,413,AAC - AGC,138,Asn - Ser,NA,20054829
+katG,Isoniazid,943 - 945,NA,315,Ser - Arg,NA,20054829
+katG,Isoniazid,686,A - T,229,Tyr - Phe,NA,20054829
+katG,Isoniazid,943,AGC - GGC,315,Ser - Gly,NA,20054829
+katG,Isoniazid,189,NA,63,Asp - Glu,NA,20054829
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,20054829
+katG,Isoniazid,1048,G - T,350,Ala - Ser,NA,20054829
+katG,Isoniazid,943 - 945,NA,315,Ser - Asn,NA,20054829
+katG,Isoniazid,1759,NA,587,Leu - Met,NA,20054829
+katG,Isoniazid,1388,G - T,463,Arg - Leu,NA,20054829
+katG,Isoniazid,2203,G - A,735,Asp - Asn,NA,20054829
+katG,Isoniazid,571 - 576,Deletion,191 - 192,Trp Glu - Deletion,Japan,20211896
+katG,Isoniazid,694,C - T,232,Pro - Ser,Japan,20211896
+katG,Isoniazid,1894,C - T,632,Arg - Cys,Japan,20211896
+katG,Isoniazid,368,G - A,123,Gly - Glu,Japan,20211896
+katG,Isoniazid,1624,G - C,542,Asp - His,Japan,20211896
+katG,Isoniazid,1255,G - C,419,Asp - His,Japan,20211896
+katG,Isoniazid,1159,G - C,387,Asp - His,Japan,20211896
+katG,Isoniazid,290,A - G,97,His - Arg,Japan,20211896
+katG,Isoniazid,1465,C - A,489,Arg - Ser,Japan,20211896
+katG,Isoniazid,895,G - A,299,Gly - Ser,Japan,20211896
+katG,Isoniazid,1259,T - C,420,Met - Thr,Japan,20211896
+katG,Isoniazid,398,A - C,133,Asn - Thr,Japan,20211896
+katG,Isoniazid,527,T - C,176,Met - Thr,Japan,20211896
+katG,Isoniazid,945,AGC - AGA,315,Ser - Arg,Japan,20211896
+katG,Isoniazid,1147,T - C,383,Ser - Pro,Japan,20211896
+katG,Isoniazid,379,C - G,127,Gln - Glu,Japan,20211896
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Japan,20211896
+katG,Isoniazid,195,C - T,65,Ala - Ala,Japan,20211896
+katG,Isoniazid,1388,G - T,463,Arg - Leu,Japan,20211896
+katG,Isoniazid,371,G - Deletion,NA,NA,Japan,20211896
+katG,Isoniazid,478 - 479,Deletion,NA,NA,Japan,20211896
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Mumbai in India,22260344
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,North Eastern Uttar Pradesh in India,23325741
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,North Eastern Uttar Pradesh in India,23325741
+katG,Isoniazid,464,TAC-TCC,155,Tyr - Ser,Los Angeles in United States,23453008
+katG,Isoniazid,436,CGG - TGG,146,Arg - Trp,Los Angeles in United States,23453008
+katG,Isoniazid,1493,CGC - CAC,498,Arg - His,Los Angeles in United States,23453008
+katG,Isoniazid,215,ATG - ATA,105,Met - Ile,Los Angeles in United States,23453008
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Los Angeles in United States,23453008
+katG,Isoniazid,838,CCG-TCG,280,Pro - Ser,Los Angeles in United States,23453008
+katG,Isoniazid,271,T - C,91,Trp - Arg,Warsaw in Poland,23744165
+katG,Isoniazid,392,C - G,131,Pro - Arg,Warsaw in Poland,23744165
+katG,Isoniazid,392,C - A,131,Pro - Gln,Warsaw in Poland,23744165
+katG,Isoniazid,302,T - C,101,Leu - Pro,Warsaw in Poland,23744165
+katG,Isoniazid,944,AGC - ATC,315,Ser - Ile,Warsaw in Poland,23744165
+katG,Isoniazid,580,G - T,194,Asp - Tyr,Warsaw in Poland,23744165
+katG,Isoniazid,383,CGG - CAG,128,Arg - Gln,Warsaw in Poland,23744165
+katG,Isoniazid,203,T - G,68,Val - Gly,Warsaw in Poland,23744165
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Warsaw in Poland,23744165
+katG,Isoniazid,944 - 945,GC - CT,315,Ser - Thr,Warsaw in Poland,23744165
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Warsaw in Poland,23744165
+katG,Isoniazid,378,ATG - ATA,126,Met - Ile,Warsaw in Poland,23744165
+katG,Isoniazid,1388,G - T,463,Arg - Leu,Warsaw in Poland,23744165
+katG,Isoniazid,135,T - Insertion,46,Stop,Warsaw in Poland,23744165
+katG,Isoniazid,701,C - G,234,Ala - Gly,Warsaw in Poland,23744165
+katG,Isoniazid,701,C - G,234,Ala - Gly,Warsaw in Poland,23744165
+katG,Isoniazid,1360,G - T,454,Stop,Warsaw in Poland,23744165
+katG,Isoniazid,293,TAC - TGC,98,Tyr - Cys,Taiwan,24184004
+katG,Isoniazid,805,GGT - CGT,269,Gly - Arg,Taiwan,24184004
+katG,Isoniazid,380,CAG - CCG,127,Gln - Pro,Taiwan,24184004
+katG,Isoniazid,1054,CAA - GAA,352,Gln - Glu,Taiwan,24184004
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Taiwan,24184004
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Taiwan,24184004
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Taiwan,24184004
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Taiwan,24184004
+katG,Isoniazid,606,GCC - GCA,202,Ala - Ala,Taiwan,24184004
+katG,Isoniazid,609,ACC - ACT,203,Thr - Thr,Taiwan,24184004
+katG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Taiwan,24184004
+katG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Taiwan,24184004
+katG,Isoniazid,1516,GAG - TAG,506,Glu - Stop,Taiwan,24184004
+katG,Isoniazid,944,AGC - ATC,315,Ser - Ile,Rio de Janeiro in Brazil,25093512
+katG,Isoniazid,277,GCC - ACC,93,Ala - Thr,Rio de Janeiro in Brazil,25093512
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Rio de Janeiro in Brazil,25093512
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Rio de Janeiro in Brazil,25093512
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Rio de Janeiro in Brazil,25093512
+katG,Isoniazid,50,AGC - ACC,17,Ser - Thr,Rio de Janeiro in Brazil,25093512
+katG,Isoniazid,1197,GAA - GAG,399,Glu - Glu,Rio de Janeiro in Brazil,25093512
+katG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Rio de Janeiro in Brazil,25093512
+katG,Isoniazid,2,GTG - GCG,1,Val - Ala,Rio de Janeiro in Brazil,25093512
+katG,Isoniazid,1293,G - Deletion,431,NA,Rio de Janeiro in Brazil,25093512
+katG,Isoniazid,392,CCG - ACG,131,Pro - Thr,NA,26251830
+katG,Isoniazid,806,GGT - GAT,269,Gly - Asp,NA,26251830
+katG,Isoniazid,425,GAC - GGC,142,Asp - Gly,NA,26251830
+katG,Isoniazid,1160,GAT - GGT,387,Asp - Gly,NA,26251830
+katG,Isoniazid,1622,GCC - GAC,541,Ala - Asp,NA,26251830
+katG,Isoniazid,139,GTA - GAA,47,Val - Glu,NA,26251830
+katG,Isoniazid,1787,AAC - AGC,596,Asn - Ser,NA,26251830
+katG,Isoniazid,581,GAT - GGT,194,Asp - Gly,NA,26251830
+katG,Isoniazid,95,GGC - GAC,32,Gly - Asp,NA,26251830
+katG,Isoniazid,485,GCG - GTG,162,Ala - Val,NA,26251830
+katG,Isoniazid,766,GCC - ACC,256,Ala - Thr,NA,26251830
+katG,Isoniazid,916,ACC - CCC,306,Thr - Pro,NA,26251830
+katG,Isoniazid,1870,ATG - GTG,624,Met - Val,NA,26251830
+katG,Isoniazid,1181,ACG - ATG,394,Thr - Met,NA,26251830
+katG,Isoniazid,1999,ACC - CCC,667,Thr - Pro,NA,26251830
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Uttar Pradesh in India,27287637
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Uttar Pradesh in India,27287637
+katG,Isoniazid,944,G - C,315,Ser - Thr,Ghana,27450017
+katG,Isoniazid,1313,TGG - TCG,438,Trp - Ser,Quebec in Canada,27459848
+katG,Isoniazid,1124,CCG - CGG,375,Pro - Arg,Quebec in Canada,27459848
+katG,Isoniazid,1159,GAT - CAT,387,Asp - His,Quebec in Canada,27459848
+katG,Isoniazid,1238,TAC - TGC,413,Tyr - Cys,Quebec in Canada,27459848
+katG,Isoniazid,1349,GTC - GAC,450,Val - Asp,Quebec in Canada,27459848
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Quebec in Canada,27459848
+katG,Isoniazid,1342,GAC - AAC,448,Asp - Asn,Quebec in Canada,27459848
+katG,Isoniazid,1351,GGC - AGC,451,Gly - Ser,Quebec in Canada,27459848
+katG,Isoniazid,1028,TGA - TAA,343,Stop - Stop,Quebec in Canada,27459848
+katG,Isoniazid,1284,G - Deletion,NA,NA,Quebec in Canada,27459848
+katG,Isoniazid,182,GTG - GGA,61,Val - Gly,NA,27540322
+katG,Isoniazid,184,GCG - ACG,62,Ala - Thr,NA,27540322
+katG,Isoniazid,712,TCG - GCG,238,Ser - Ala,NA,27540322
+katG,Isoniazid,713,CTC - CGC,238,Leu - Arg,NA,27540322
+katG,Isoniazid,740,CTC - CGC,247,Gln - His,NA,27540322
+katG,Isoniazid,1021,T - G,341,Trp - Gly,France,27553406
+katG,Isoniazid,809,A - G,270,His - Arg,France,27553406
+katG,Isoniazid,1481,G - A,494,Gly - Asp,France,27553406
+katG,Isoniazid,566,A - G,189,Asp - Gly,France,27553406
+katG,Isoniazid,353,G - A,118,Gly - Asp,France,27553406
+katG,Isoniazid,362,G - A,121,Gly - Asp,France,27553406
+katG,Isoniazid,1007,T - C,336,Leu - Pro,France,27553406
+katG,Isoniazid,1972 - 1974,NA,658,Phe - Val,France,27553406
+katG,Isoniazid,423,NA,141,Leu - Ser,France,27553406
+katG,Isoniazid,746,CGC - CAC,249,Arg - His,France,27553406
+katG,Isoniazid,485,C - A,162,Ala - Glu,France,27553406
+katG,Isoniazid,329,C - T,110,Ala - Val,France,27553406
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,France,27553406
+katG,Isoniazid,1382,A - C,461,Gln - Pro,France,27553406
+katG,Isoniazid,1783 - 1785,NA,595,Arg - Stop,France,27553406
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Galicia in Spain,27586016
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Veracruz and Baja California in Mexico,27637930
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Veracruz and Baja California in Mexico,27637930
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Lithuania,27641092
+katG,Isoniazid,826 - 828,CAT - ATG,276,His - Met,Chennai in India,27873643
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Chennai in India,27873643
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Chennai in India,27873643
+katG,Isoniazid,885,CAG - CAT,295,Gln - His,Chennai in India,27873643
+katG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Chennai in India,27873643
+katG,Isoniazid,103,ACT - CCT,35,Thr - Pro,Chennai in India,27873643
+katG,Isoniazid,139 - 141,TGC - CGG,47,Cys - Pro,Chennai in India,27873643
+katG,Isoniazid,5,A - T,3,Glu - Val,San Francisco in United States,27893795
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,central Ethiopia,27931690
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Northern India,28043502
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Pakistan,28043516
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Central India,28053915
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Central India,28053915
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,28092681
+katG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,NA,28245964
+katG,Isoniazid,1586,AAC - ACA,529,Asp - Thr,NA,28245964
+katG,Isoniazid,1586,AAC - CAC,529,Asp - His,NA,28245964
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Wuhan in China,28438132
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Wuhan in China,28438132
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,United States,28513421
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Soochow in China,28565846
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Cameroon,28569148
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Cameroon,28569148
+katG,Isoniazid,898,TGG - GGG,300,Trp - Gly,Yunnan Province in China,28623123
+katG,Isoniazid,906,AGC - AGG,302,Ser - Arg,Yunnan Province in China,28623123
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Yunnan Province in China,28623123
+katG,Isoniazid,1388,G - T,463,Arg - Leu,Yunnan Province in China,28623123
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,eastern Uttar Pradesh in India,28631643
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,India,28793376
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,India,28793376
+katG,Isoniazid,946,GGC - AGC,316,Gly - Ser,Khyber Pakhtunkhwa in Pakistan,28839308
+katG,Isoniazid,946,GGC - AGC,316,Gly - Ser,Khyber Pakhtunkhwa in Pakistan,28839308
+katG,Isoniazid,943,AGC - CGC,315,Ser - Arg,Khyber Pakhtunkhwa in Pakistan,28839308
+katG,Isoniazid,943 - 945,NA,315,Ser - Arg,Khyber Pakhtunkhwa in Pakistan,28839308
+katG,Isoniazid,908,TCG - TGG,303,Ser - Trp,Khyber Pakhtunkhwa in Pakistan,28839308
+katG,Isoniazid,908,TCG - TGG,303,Ser - Trp,Khyber Pakhtunkhwa in Pakistan,28839308
+katG,Isoniazid,821,A - G,274,Lys - Arg,Khyber Pakhtunkhwa in Pakistan,28839308
+katG,Isoniazid,821,AAG - AGG,274,Lys - Arg,Khyber Pakhtunkhwa in Pakistan,28839308
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Khyber Pakhtunkhwa in Pakistan,28839308
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Khyber Pakhtunkhwa in Pakistan,28839308
+katG,Isoniazid,943 - 945,NA,315,Ser - Leu,Zimbabwe,28904673
+katG,Isoniazid,907 - 909,NA,303,Ser - Leu,Zimbabwe,28904673
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Morocco,28993300
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Morocco,28993300
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Chennai in India,29050763
+katG,Isoniazid,836,GGC - GAC,279,Gly - Asp,NA,29066301
+katG,Isoniazid,2204,A - C,735,Asp - Ala,Lisbon in Portugal,29091448
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Lisbon in Portugal,29091448
+katG,Isoniazid,943 - 945,NA,315,Ser - Asn,Lisbon in Portugal,29091448
+katG,IQG -607,944,AGC - ACC,315,Ser - Thr,NA,29158273
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Ethiopia,29191227
+katG,Isoniazid,546 - 551,GTTCGG - Deletion,183 - 184,Phe Gly - Deletion,NA,29242075
+katG,Isoniazid,728,C - A,243,Ala - Asp,NA,29242075
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,29242075
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,NA,29242075
+katG,Isoniazid,943,AGC - GGC,315,Ser - Gly,Bangladesh,29459669
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,29459669
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Morocco,29486710
+katG,Isoniazid,943,AGC - CGC,315,Ser - Arg,Kyrgyz Republic,29566660
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Kyrgyz Republic,29566660
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Kyrgyz Republic,29566660
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,29604431
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,NA,29604431
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Addis Ababa in Ethiopia,29675262
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Addis Ababa in Ethiopia,29675262
+katG,Isoniazid,635,GGT - GAT,212,Gly - Asp,Sri Lanka,29683767
+katG,Isoniazid,945,AGC - AGA,315,Ser - Arg,Sri Lanka,29683767
+katG,Isoniazid,823,ACC - GCC,275,Thr - Ala,Sri Lanka,29683767
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Sri Lanka,29683767
+katG,Isoniazid,944 - 945,AGC - ACA,315,Ser - Thr,Sri Lanka,29683767
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Sri Lanka,29683767
+katG,Isoniazid,879,CTA - CTG,293,Leu - Leu,Sri Lanka,29683767
+katG,Isoniazid,1563,CTG - CTC,521,Leu - Leu,Sri Lanka,29683767
+katG,Isoniazid,1388,CGG - CTG,463,Arg - Leu,Sri Lanka,29683767
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,29779779
+katG,Isoniazid,944,AGC - ACC,315,Ser - Thr,Changchun in China,29788948
+katG,Isoniazid,944,AGC - AAC,315,Ser - Asn,Changchun in China,29788948
+katG,Isoniazid,NA,NA,315,Ser - Thr ,China,26486879
+katG,Isoniazid,NA,NA,315,Ser - Leu,Spain,27586016
