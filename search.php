@@ -62,7 +62,7 @@
     <title>DRTB-DB - Database for Drug Resistant Tuberculosis</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
             <a class="navbar-brand" href="index.html">DRTB-DB</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -72,7 +72,7 @@
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
                         <a class="nav-link" href="index.html">Home</a>
-                </li>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="search.html">Search</a>
                     </li>
