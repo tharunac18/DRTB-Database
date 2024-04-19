@@ -1,4 +1,4 @@
-Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 rpoB,Rifampicin / Rifabutin / Rifapentine,1493,T - C,498,Val - Ala,NA,7759399
 rpoB,Rifampicin / Rifabutin / Rifapentine,1532,T - C,511,Leu - Pro,NA,7759399
 rpoB,Rifampicin / Rifabutin / Rifapentine,1537 - 1539,NA,513,Gln - Leu,NA,7759399
