@@ -1,4 +1,4 @@
-Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 KatG,Isoniazid,823,ACC - CCC,275,Thr - Pro,NA,7746145
 KatG,Isoniazid,944,AGC - ACC,315,Ser - Thr,NA,7746145
 KatG,Isoniazid,1759,CTG - ATG,587,Leu - Met,NA,7746145
