@@ -1,4 +1,4 @@
-
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 embA,Ethambutol,2737,CCG - TCG,913,Pro - Ser,United States and Russia,10639358
 embA,Ethambutol,2498,GAC - GGC,833,Asp - Ala,United States and Russia,10639358
 embA,Ethambutol,1385,GCG - GTG,462,Ala - Val,United States and Russia,10639358
