@@ -31,3 +31,209 @@ embA,Ethambutol,-16,C - A,NA,NA,China,29084750
 embA,Ethambutol,-5,G - A,NA,NA,China,29084750
 embA,Ethambutol,-12,C - T,NA,NA,China,29084750
 embA,Ethambutol,-11,C - A,NA,NA,China,29084750
+embB,Ethambutol,988,TTC - GTC,330,Phe - Val,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embB,Ethambutol,918,ATG - ATA,306,Met - Ile,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embB,Ethambutol,918,ATG - ATT,306,Met - Ile,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embB,Ethambutol,918,ATG - ATC,306,Met - Ile,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embB,Ethambutol,916,ATG - CTG,306,Met - Leu,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embB,Ethambutol,855,TTC - TTA,285,Phe - Leu,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embB,Ethambutol,1889,ACC - ATC,630,Thr - Ile,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embB,Ethambutol,2234,GGC - GAC,745,Gly - Asp,United States and Russia,10639358
+embB,Ethambutol,1000,TAC - CAC,334,Tyr - His,United States and Russia,10639358
+embB,Ethambutol,2999,ATG - AGG,1000,Met - Arg,United States and Russia,10639358
+embB,Ethambutol,1490,CAG - AAG,497,Gln - Lys,United States and Russia,10639358
+embB,Ethambutol,1490,CAG - CGG,497,Gln - Arg,United States and Russia,10639358
+embB,Ethambutol,982,GAT - TAT,328,Asp - Tyr,United States and Russia,10639358
+embB,Ethambutol,2876,GAC - GCC,959,Asp - Ala,United States and Russia,10639358
+embB,Ethambutol,1216,GGC - TGC,406,Gly - Cys,United States and Russia,10639358
+embB,Ethambutol,889,TCG - GCG,297,Ser - Ala,United States and Russia,10639358
+embB,Ethambutol,983,GAT - GGT,328,Asp - Gly,United States and Russia,10639358
+embB,Ethambutol,1217,GGC - GAC,406,Gly - Asp,United States and Russia,10639358
+embB,Ethambutol,1217,GGC - GCC,406,Gly - Ala,United States and Russia,10639358
+embB,Ethambutol,1216,GGC - AGC,406,Gly - Ser,United States and Russia,10639358
+embB,Ethambutol,3070,GAC - AAC,1024,Asp - Asn,United States and Russia,10639358
+embB,Ethambutol,1040,AGT - ACT,347,Ser - Thr,Peru,10645449
+embB,Ethambutol,983,A - Deletion,NA,NA,Peru,10645449
+embB,Ethambutol,941,GGC - GCG,314,Gly - Ala,South Korea,11854934
+embB,Ethambutol,917,ATG - ACG,306,Met - Thr,South Korea,11854934
+embB,Ethambutol,916,ATG - TTG,306,Met - Leu,South Korea,11854934
+embB,Ethambutol,965,TAT - TGT,322,Tyr - Cys,South Korea,11854934
+embB,Ethambutol,991,GAT - TAT,331,Asp - Tyr,Korea,11854934
+embB,Ethambutol,821,CGC - CCC,274,Arg - Pro,NA,12622890
+embB,Ethambutol,1975,GCG - ACG,659,Ala - Thr,Singapore,15504879
+embB,Ethambutol,1269,ATG - ATA,423,Met - Ile,Singapore,15504879
+embB,Ethambutol,941 - 942,GGC - GAG,314,Gly - Glu,Latvia,15567277
+embB,Ethambutol,955,TAT - GAT,319,Tyr - Cys,NA,16377878
+embB,Ethambutol,956,TAT - TGT,319,Tyr - Cys,NA,16377878
+embB,Ethambutol,997,TAT - CAT,333,Tyr - His,NA,16377878
+embB,Ethambutol,994 - 995,TGG - CTG,332,Trp - Leu,Germany,16641474
+embB,Ethambutol,956,TAT - TCT,319,Tyr - Ser,Germany,16641474
+embB,Ethambutol,890,TCG - TTG,297,Ser - Leu,Germany,16641474
+embB,Ethambutol,983 - 984,GAT - GTG,328,Asp - Val,Germany,16641474
+embB,Ethambutol,1337 - 1338,CCG - CAT,446,Pro - His,India,16972132
+embB,Ethambutol,1190,CCG - CAG,397,Pro - Gln,India,16972132
+embB,Ethambutol,718,GAC - CAC,240,Asp - His,India,16972132
+embB,Ethambutol,716,CTC - CCC,239,Leu - Pro,India,16972132
+embB,Ethambutol,1406 - 1407,CGT - CCG,469,Arg - Pro,India,16972132
+embB,Ethambutol,880,GGC - AGC,294,Gly - Ser,India,16972132
+embB,Ethambutol,1103 - 1104,GAA - GCG,368,Glu - Ala,India,16972132
+embB,Ethambutol,1393 - 1394,ATT - GAT,465,Ile - Asp,India,16972132
+embB,Ethambutol,878 - 879,ATT - AAC,293,Ile - Asn,India,16972132
+embB,Ethambutol,680 - 681,GTG - GGC,227,Val - Gly,India,16972132
+embB,Ethambutol,1412 - 1413,CGT - CCG,471,Arg - Pro,India,16972132
+embB,Ethambutol,897,GAC - GAA,299,Asp - Glu,India,16972132
+embB,Ethambutol,662 - 663,GCG - GGC,221,Ala - Gly,India,16972132
+embB,Ethambutol,1138 - 1140,AGC - CGT,380,Ser - Arg,India,16972132
+embB,Ethambutol,815 - 816,AGC - ATT,272,Ser - Ile,India,16972132
+embB,Ethambutol,812,GCG - GTG,271,Ala - Val,India,16972132
+embB,Ethambutol,931,GAC - CAC,311,Asp - His,India,16972132
+embB,Ethambutol,814,AGC - TGC,272,Ser - Cys,India,16972132
+embB,Ethambutol,841,GCG - CCG,281,Ala - Pro,India,16972132
+embB,Ethambutol,860 - 861,TTT - TGC,287,Phe - Cys,India,16972132
+embB,Ethambutol,673 - 674,GCG - AGC,225,Ala - Ser,India,16972132
+embB,Ethambutol,844,GTG - CTG,282,Val - Leu,India,16972132
+embB,Ethambutol,1190,GGC - GCG,406,Gly - Ala,India,16972132
+embB,Ethambutol,859 - 861,TTT - GTG,287,Phe - Val,India,16972132
+embB,Ethambutol,1103 - 1104,GAA - GCG,378,Glu - Ala,India,16972132
+embB,Ethambutol,383,GTC - GGG,128,Val - Gly,India,16972132
+embB,Ethambutol,841 - 843,TTT - CTG,281,Phe - Leu,India,16972132
+embB,Ethambutol,955,TAT - AAT,319,Tyr - Asn,NA,17360809
+embB,Ethambutol,1183 - 1185,TGG - CGT,395,Trp - Arg,India,19010731
+embB,Ethambutol,1185,TGG - TGC,395,Trp - Cys,India,19010731
+embB,Ethambutol,1289,CCG - CTG,430,Pro - Leu,India,19010731
+embB,Ethambutol,1121 - 1122,GGC - GTG,374,Gly - Val,India,19010731
+embB,Ethambutol,1343 - 1344,GGC - GTG,448,Gly - Val,India,19010731
+embB,Ethambutol,1112 - 1113,CCG - CGT,371,Pro - Arg,India,19010731
+embB,Ethambutol,1198 - 1200,AAC - CCG,400,Asn - Pro,India,19010731
+embB,Ethambutol,943 - 945,TAT - CTG,315,Tyr - Leu,India,19010731
+embB,Ethambutol,991 - 993,GGC - CGT,331,Gly - Arg,India,19010731
+embB,Ethambutol,1378 - 1380,CGT - TGC,460,Arg - Cys,India,19010731
+embB,Ethambutol,1189 - 1190,CCG - ACC,397,Pro - Thr,India,19010731
+embB,Ethambutol,1100 - 1101,CGT - CCG,367,Arg - Pro,India,19010731
+embB,Ethambutol,1379 - 1380,CGT - CTG,460,Arg - Leu,India,19010731
+embB,Ethambutol,1381 - 1383,CCG - AGC,461,Pro - Ser,India,19010731
+embB,Ethambutol,1203,ACG - ACA,401,Gly - Ser,India,19010731
+embB,Ethambutol,1213 - 1214,GAA - CCG,405,Glu - Pro,India,19010731
+embB,Ethambutol,1200,AAC - AAA,400,Asn - Lys,India,19010731
+embB,Ethambutol,1073 - 1074,GGC - GTG,358,Gly - Val,India,19010731
+embB,Ethambutol,954,AAC - AAA,318,Asn - Lys,India,19010731
+embB,Ethambutol,1040,AGT - ATT,347,Ser - Ile,India,19010731
+embB,Ethambutol,1304 - 1305,GTG - GGC,435,Val - Gly,India,19010731
+embB,Ethambutol,1130 - 1131,GTG - GGC,377,Val - Gly,India,19010731
+embB,Ethambutol,1307 - 1308,GTG - GGC,436,Val - Gly,India,19010731
+embB,Ethambutol,888,AAT - AAA,296,Asn - Lys,India,19010731
+embB,Ethambutol,1096,AGC - CCG,366,Ser - Pro,India,19010731
+embB,Ethambutol,352,AAC - CAT,318,Asn - His,India,19010731
+embB,Ethambutol,953,AAC - AGC,318,Asn - Ser,India,19010731
+embB,Ethambutol,1109 - 1110,CTG - CGT,370,Leu - Arg,India,19010731
+embB,Ethambutol,1195 - 1196,TTT - CAT,399,Asn - His,India,19010731
+embB,Ethambutol,845,GTG - GGG,282,Val - Gly,India,19010731
+embB,Ethambutol,1106,GTG - GCG,369,Val - Ala,India,19010731
+embB,Ethambutol,1192 - 1193,TTT - CAT,398,Phe - His,India,19010731
+embB,Ethambutol,926 - 927,GTG - GGC,309,Val - Gly,India,19010731
+embB,Ethambutol,935,CAT - CGT,312,His - Arg,India,19010731
+embB,Ethambutol,928 - 930,GCG - CGT,310,Ala - Arg,India,19010731
+embB,Ethambutol,1195 - 1196,TTT - GAT,399,Asn - Asp,India,19010731
+embB,Ethambutol,1105,GTG - CTG,369,Val - Leu,India,19010731
+embB,Ethambutol,1102 - 1104,GAA - CAG,368,Glu - Gln,India,19010731
+embB,Ethambutol,1104,GAA - GAT,368,Glu - Asp,India,19010731
+embB,Ethambutol,1291 - 1293,GCG - ACC,431,Ala - Thr,India,19010731
+embB,Ethambutol,931 - 932,GAC - CGT,311,Asp - Arg,India,19010731
+embB,Ethambutol,1129,GTG - ATG,377,Val - Met,India,19010731
+embB,Ethambutol,1070,GCG - GTG,357,Ala - Val,India,19010731
+embB,Ethambutol,1139,AGC - AAC,380,Ser - Asp,India,19010731
+embB,Ethambutol,1069 - 1071,GCG - AGC,357,Ala - Ser,India,19010731
+embB,Ethambutol,1354,GTG - CTG,452,Val - Leu,India,19010731
+embB,Ethambutol,1150 - 1152,TAT - AAC,384,Tyr - Asn,India,19010731
+embB,Ethambutol,950,AGC - ACC,317,Ser - Thr,India,19010731
+embB,Ethambutol,1066 - 1068,GCG - AGC,356,Ala - Ser,India,19010731
+embB,Ethambutol,1309 - 1311,ACC - GCG,437,Thr - Ala,India,19010731
+embB,Ethambutol,1136 - 1137,GCG - GAT,379,Ala - Asp,India,19010731
+embB,Ethambutol,1078,GTG - ATG,360,Val - Met,India,19010731
+embB,Ethambutol,1217,GGC - GAT,406,Gly - Asp,India,19010731
+embB,Ethambutol,769 - 771,CGT - TGG,257,Arg - Trp,India,19010731
+embB,Ethambutol,1123 - 1124,CCG - GCG,375,Pro - Ala,India,19010731
+embB,Ethambutol,1066 - 1068,GCG - TTT,356,Ala - Phe,India,19010731
+embB,Ethambutol,1135 - 1137,GCG - ACC,379,Ala - Thr,India,19010731
+embB,Ethambutol,1075 - 1077,CTG - ATT,359,Leu - Ile,India,19010731
+embB,Ethambutol,1193,TTT - TAT,398,Phe - Tyr,India,19010731
+embB,Ethambutol,1376 - 1377,GGC - GCG,459,Gly - Ala,India,19010731
+embB,Ethambutol,1163 - 1164,GCG - GGC,388,Ala - Gly,India,19010731
+embB,Ethambutol,1132,GAA - AAA,378,Glu - Lys,India,19010731
+embB,Ethambutol,1067,GCG - GTG,356,Ala - Val,India,19010731
+embB,Ethambutol,1216,GGC - CCG,406,Gly - Pro,India,19010731
+embB,Ethambutol,1301 - 1302,GCG - GGC,434,Arg - Gly,India,19010731
+embB,Ethambutol,1490,CAG - CGG,497,Gln - Arg,Spain,24216765
+embB,Ethambutol,918,ATG - ATA,306,Met - Ile,Spain,24216765
+embB,Ethambutol,918,ATG - ATA,306,Met - Ile,Spain,24216765
+embB,Ethambutol,918,ATG - ATA,306,Met - Ile,Spain,24216765
+embB,Ethambutol,918,ATG - ATC,306,Met - Ile,Spain,24216765
+embB,Ethambutol,918,ATG - ATC,306,Met - Ile,Spain,24216765
+embB,Ethambutol,918,ATG - ATC,306,Met - Ile,Spain,24216765
+embB,Ethambutol,918,ATG - ATC,306,Met - Ile,Spain,24216765
+embB,Ethambutol,918,ATG - ATC,306,Met - Ile,Spain,24216765
+embB,Ethambutol,918,ATG - ATT,306,Met - Ile,Spain,24216765
+embB,Ethambutol,982,GAT - TAT,328,Asp - Tyr,Spain,24216765
+embB,Ethambutol,982,GAT - TAT,328,Asp - Tyr,Spain,24216765
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,Spain,24216765
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,Spain,24216765
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,Spain,24216765
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,Spain,24216765
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,Spain,24216765
+embB,Ethambutol,916,ATG - TTG,306,Met - Leu,Spain,24216765
+embB,Ethambutol,916,ATG - TTG,306,Met - Leu,Spain,24216765
+embB,Ethambutol,1216,GGC - TGC,406,Gly - Cys,Spain,24216765
+embB,Ethambutol,1217,GGC - GAC,406,Gly - Asp,Spain,24216765
+embB,Ethambutol,1217,GGC - GCC,406,Gly - Ala,Spain,24216765
+embB,Ethambutol,1217,GGC - GCC,406,Gly - Ala,Spain,24216765
+embB,Ethambutol,1216,GGC - AGC,406,Gly - Ser,Spain,24216765
+embB,Ethambutol,1133,GAG - GCG,378,Glu - Ala,Spain,24216765
+embB,Ethambutol,918,ATG - ATA,306,Met - Ile,China,24733464
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,China,24733464
+embB,Ethambutol,1217,GGC - GAC,406,Gly - Asp,China,24733464
+embB,Ethambutol,955,TAT - GAT,319,Tyr - Asp,China,25605360
+embB,Ethambutol,956,TAT - TGT,319,Tyr - Cys,China,25605360
+embB,Ethambutol,3005,CAC - CGC,1002,His - Arg,China,25605360
+embB,Ethambutol,1490,CAG - CCG,497,Gln - Pro,China,25605360
+embB,Ethambutol,1196,AAC - ACC,399,Asn - Thr,China,25605360
+embB,Ethambutol,1489,CAG - AAG,497,Gln - Lys,China,25605360
+embB,Ethambutol,1490,CAG - CTG,497,Gln - Lys,China,25605360
+embB,Ethambutol,1490,CAG - CGG,497,Gln - Arg,China,25605360
+embB,Ethambutol,918,ATG - ATA,306,Met - Ile,China,25605360
+embB,Ethambutol,982,GAT - TAT,328,Asp - Tyr,China,25605360
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,China,25605360
+embB,Ethambutol,916,ATG - TTG,306,Met - Leu,China,25605360
+embB,Ethambutol,1928,ACC - ATC,643,Thr - Ile,China,25605360
+embB,Ethambutol,1234,TCG - CCG,412,Ser - Pro,China,25605360
+embB,Ethambutol,2035,GCC - ACC,679,Ala - Thr,China,25605360
+embB,Ethambutol,1060,GAC - AAC,354,Asp - Asn,China,25605360
+embB,Ethambutol,1217,GGC - GAC,406,Gly - Asp,China,25605360
+embB,Ethambutol,1217,GGC - GCC,406,Gly - Ala,China,25605360
+embB,Ethambutol,1216,GGC - AGC,406,Gly - Ser,China,25605360
+embB,Ethambutol,1216,GGC - AGC,406,Gly - Ser,China,25605360
+embB,Ethambutol,149,GTG - GCG,50,Val - Ala,China,25605360
+embB,Ethambutol,1924,ACC - GCC,642,Thr - Ala,China,25605360
+embB,Ethambutol,3070,GAC - AAC,1024,Asp - Asn,China,25605360
+embB,Ethambutol,1061,GAC - GCC,354,Asp - Ala,China,25605360
+embB,Ethambutol,1097,TCG - TTG,366,Ser - Leu,Iran,27130997
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,Iran,27130997
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,Iran,27130997
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,Iran,27130997
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,Iran,27130997
+embB,Ethambutol,1489,CAG - AAG,497,Gln - Lys,South Africa,27784282
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,South Africa,27784282
+embB,Ethambutol,956,TAT - TGT,319,Tyr - Cys,China,29084750
+embB,Ethambutol,1491,CAG - GA(T / C),497,Gln - His,China,29084750
+embB,Ethambutol,1000,TAC - CAC,334,Tyr - His,China,29084750
+embB,Ethambutol,1490,CAG - CGG,497,Gln - Arg,China,29084750
+embB,Ethambutol,918,ATG - ATC,306,Met - Ile,China,29084750
+embB,Ethambutol,982,GAT - TAT,328,Asp - Tyr,China,29084750
+embB,Ethambutol,916,ATG - GTG,306,Met - Val,China,29084750
+embB,Ethambutol,916,ATG - TTG,306,Met - Leu,China,29084750
+embB,Ethambutol,1234,TCG - CCG,412,Ser - Pro,China,29084750
+embB,Ethambutol,1217,GGC - GAC,406,Gly - Asp,China,29084750
+embB,Ethambutol,1217,GGC - GCC,406,Gly - Ala,China,29084750
+embB,Ethambutol,1216,GGC - AGC,406,Gly - Ser,China,29084750
+embB,Ethambutol,1133,GAG - GCG,378,Glu - Ala,China,29084750
+embB,Ethambutol,1061,GAC - GCC,354,Asp - Ala,China,29084750
