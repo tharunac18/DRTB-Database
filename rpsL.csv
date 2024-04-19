@@ -1,0 +1,114 @@
+Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+rpsL,Streptomycin,128,AAG - ACG,43,Lys - Thr,NA,7934937
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,NA,7934937
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,NA,7934937
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,NA,7968530
+rpsL,Streptomycin,26,CGC - CAC,9,Arg - His,Hong Kong,8849220
+rpsL,Streptomycin,262,AAG - CAG,88,Lys - Gln,Japan,8849220
+rpsL,Streptomycin,277,GTG - ATG,93,Val - Met,Vietnam,8849220
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Hong Kong,8849220
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Japan,8849220
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Vietnam,8849220
+rpsL,Streptomycin,262,AAG - CAG,88,Lys - Gln,NA,9160326
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,NA,9160326
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,NA,9160326
+rpsL,Streptomycin,263,AAG - ATG,88,Lys - Met,Japan,9418025
+rpsL,Streptomycin,263,AAG - ACG,88,Lys - Thr,Japan,9418025
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Japan,9418025
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Japan,9418025
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,NA,11747697
+rpsL,Streptomycin,363,AAA - AAG,121,Lys - Lys,New Delhi and Chandigarh in India,11796356
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Monterrey in Mexico,14729930
+rpsL,Streptomycin,262,AAG - CAG,88,Lys - Gln,Poland,15305490
+rpsL,Streptomycin,119,C - T,40,Thr - Ile,Poland,15305490
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Poland,15305490
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Poland,15305490
+rpsL,Streptomycin,294,ATC - ATT,98,Ile - Ile,Poland,15305490
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Dzce in Turkey,16249627
+rpsL,Streptomycin,257,G - C,86,Arg - Pro,NA,17238915
+rpsL,Streptomycin,263,AAG - ATG,88,Lys - Met,NA,17238915
+rpsL,Streptomycin,263,AAG - ACG,88,Lys - Thr,NA,17238915
+rpsL,Streptomycin,104,C - A,35,Thr - Asn,NA,17238915
+rpsL,Streptomycin,262,AAG - CAG,88,Lys - Gln,NA,17238915
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,NA,17238915
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,NA,17238915
+rpsL,Streptomycin,211,GGC-AGC,71,Gly-Ser,China,18023388
+rpsL,Streptomycin,128,AAG - AGG,43,Lys-Arg,China,18023388
+rpsL,Streptomycin,263,AAG - AGG,88,Lys-Arg,China,18023388
+rpsL,Streptomycin,117,ACC - ACT,39,Thr - Thr,China,18023388
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Tbilisi in Republic of Georgia,18070968
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Cairo in Egypt,19138546
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Cairo in Egypt,19138546
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Guangdong in China,19628903
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Guangdong in China,19628903
+rpsL,Streptomycin,262,AAG - CAG,88,Lys - Gln,Shenzhen of China,20646459
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Shenzhen of China,20646459
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Tianjin in China,20708497
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Tianjin in China,20708497
+rpsL,Streptomycin,263,AAG - ACG,88,Lys - Thr,Barcelona in Spain,20802233
+rpsL,Streptomycin,262,AAG - CAG,88,Lys - Gln,Barcelona in Spain,20802233
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Barcelona in Spain,20802233
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Barcelona in Spain,20802233
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,south of Brazil,21593257
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,south of Brazil,21593257
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,NA,22460350
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Sierra Leone,22646308
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Sierra Leone,22646308
+rpsL,Streptomycin,262,AAG - CAG,88,Lys - Gln,Madang in Papua New Guinea,22943573
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Madang in Papua New Guinea,22943573
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Madang in Papua New Guinea,22943573
+rpsL,Streptomycin,262,AAG - CAG,88,Lys - Gln,southeast Mexico,23040237
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,southeast Mexico,23040237
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,southeast Mexico,23040237
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Chennai in India,23183465
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,North India,23317963
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,North India,23317963
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Republic of Korea,23561273
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Republic of Korea,23561273
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,NA,23616454
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,NA,23616454
+rpsL,Streptomycin,263,AAG - ACG,88,Lys - Thr,NA,23906937
+rpsL,Streptomycin,262,AAG - CAG,88,Lys - Gln,NA,23906937
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,NA,23906937
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,NA,23906937
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Central Region of Cameroon,24884632
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Poland,24937123
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Poland,24937123
+rpsL,Streptomycin,117,C - T,39,Thr - Thr,Poland,24937123
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Siberia,25186134
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Siberia,25186134
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Siberia,25186134
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Chongqing in China,25403663
+rpsL,Streptomycin / Kanamycin / Amikacin,128,AAG - AGG,43,Lys - Arg,Latvia,25557624
+rpsL,Streptomycin,263,AAG - ACG,88,Lys - Thr,Kaohsiung in Taiwan,25629610
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Kaohsiung in Taiwan,25629610
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Kaohsiung in Taiwan,25629610
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Pakistan,25719196
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Pakistan,25719196
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Beijing in China,26254141
+rpsL,Streptomycin,262,AAG - AGG,88,Lys - Arg,Beijing in China,26254141
+rpsL,Streptomycin,263,AAG - ATG,88,Lys - Met,Chengdu in China,26786661
+rpsL,Streptomycin,127,A - C,43,Lys - Gln,Chengdu in China,26786661
+rpsL,Streptomycin,76,G - T,26,Gly - Cys,Chengdu in China,26786661
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Chengdu in China,26786661
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Chengdu in China,26786661
+rpsL,Streptomycin,117,C - T,39,Thr - Thr,Chengdu in China,26786661
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Uganda,26917365
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Uganda,26917365
+rpsL,Streptomycin,363,AAA - AAG,121,Lys - Lys,Iran,26963306
+rpsL,Streptomycin,128,AAG - ACG,43,Lys - Thr,Beijing in China,27176471
+rpsL,Streptomycin,129,AAG - AAC,43,Lys - Asn,Beijing in China,27176471
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Beijing in China,27176471
+rpsL,Streptomycin,263,AAG - ATG,88,Lys - Met,Iran,27380108
+rpsL,Streptomycin,263,AAG - ATG,88,Lys - Met,Iran,27380108
+rpsL,Streptomycin,131,AAG - AGG,44,Lys - Arg,Iran,27380108
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Iran,27380108
+rpsL,Streptomycin,262,AAG - CAG,88,Lys - Gln,Chiang Rai Province in Thailand,27436385
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Chiang Rai Province in Thailand,27436385
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Iran,28404234
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Iran,28404234
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Yunnan in China,28623123
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Yunnan in China,28623123
+rpsL,Streptomycin,332,AAA - ATA,111,Lys - Ile,Khyber Pakhtunkhwa in Pakistan,29171560
+rpsL,Streptomycin,128,AAG - AGG,43,Lys - Arg,Khyber Pakhtunkhwa in Pakistan,29171560
+rpsL,Streptomycin,263,AAG - AGG,88,Lys - Arg,Khyber Pakhtunkhwa in Pakistan,29171560

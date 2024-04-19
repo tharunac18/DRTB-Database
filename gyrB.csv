@@ -1,0 +1,71 @@
+Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+gyrB,Fluoroquinolone,1514,GAC - GCC,505,Asp - Ala,NA,12044302
+gyrB,Fluoroquinolone,1514,GAC - GCC,505,Asp - Ala,NA,12044302
+gyrB,Fluoroquinolone,1414,GAC - CAC,472,Asp - His,NA,16377674
+gyrB,Fluoroquinolone,1528,AAC - GAC,510,Asn - Asp,NA,16377674
+gyrB,Fluoroquinolone,1414,GAC - CAC,472,Asp - His,France,16377674
+gyrB,Fluoroquinolone,1528,AAC - GAC,510,Asn - Asp,France,16377674
+gyrB,Fluoroquinolone,1414,GAC - AAC,472,Asp - Asn,NA,16438215
+gyrB,Fluoroquinolone,1414,GAC - AAC,472,Asp - Asn,Thailand,16438215
+gyrB,Fluoroquinolone (Ofloxacin),1528,AAC - GAC,510,Asn - Asp,Algeria,17458568
+gyrB,Fluoroquinolone,1530,AAC - AAA,510,Gln - Lys,NA,18559646
+gyrB,Fluoroquinolone,1543,GCG - ACG,515,Ala - Thr,NA,18559646
+gyrB,Fluoroquinolone,1544,GCG - GTG,515,Ala - Val,NA,18559646
+gyrB,Fluoroquinolone,1647,CAA - CAT,549,Gln - His,NA,18559646
+gyrB,Fluoroquinolone,1530,AAC - AAA,510,Gln - Lys,Taiwan,18559646
+gyrB,Fluoroquinolone,1543,GCG - ACG,515,Ala - Thr,Taiwan,18559646
+gyrB,Fluoroquinolone,1544,GCG - GTG,515,Ala - Val,Taiwan,18559646
+gyrB,Fluoroquinolone,1647,CAA - CAT,549,Gln - His,Taiwan,18559646
+gyrB,Fluoroquinolone,1369,CGT - TGT,457,Arg - Cys,NA,19470505
+gyrB,Fluoroquinolone,1369,CGT - TGT,457,Arg - Cys,Uzbekistan,19470505
+gyrB,Fluoroquinolone,1415,GAC - GCC,472,Asp - Ala,NA,19721073
+gyrB,Fluoroquinolone,1531,ACC - CCC,511,Thr - Pro,NA,19721073
+gyrB,Fluoroquinolone,1414,GAC - CAC,472,Asp - His,NA,19721073
+gyrB,Fluoroquinolone,1414,GAC - AAC,472,Asp - Asn,NA,19721073
+gyrB,Fluoroquinolone,1373,TCC - TTC,458,Ser - Phe,NA,19721073
+gyrB,Fluoroquinolone,1442,GGT - GCT,481,Gly - Ala,NA,19721073
+gyrB,Fluoroquinolone,1529,AAC - ACC,510,Asn - Thr,NA,19721073
+gyrB,Fluoroquinolone,579,A - T,512,Glu - Asp,NA,19721073
+gyrB,Fluoroquinolone,1535,GAA - GTA,512,Glu - Val,NA,19721073
+gyrB,Fluoroquinolone,1415,GAC - GCC,472,Asp - Ala,Vietnam,19721073
+gyrB,Fluoroquinolone,1531,ACC - CCC,511,Thr - Pro,Vietnam,19721073
+gyrB,Fluoroquinolone,1414,GAC - CAC,472,Asp - His,Vietnam,19721073
+gyrB,Fluoroquinolone,1414,GAC - AAC,472,Asp - Asn,Vietnam,19721073
+gyrB,Fluoroquinolone,1373,TCC - TTC,458,Ser - Phe,Vietnam,19721073
+gyrB,Fluoroquinolone,1442,GGT - GCT,481,Gly - Ala,Vietnam,19721073
+gyrB,Fluoroquinolone,1529,AAC - ACC,510,Asn - Thr,Vietnam,19721073
+gyrB,Fluoroquinolone,1536,NA,512,Glu - Asp,Vietnam,19721073
+gyrB,Fluoroquinolone,1535,GAA - GTA,512,Glu - Val,Vietnam,19721073
+gyrB,Fluoroquinolone (Ofloxacin),1534,GGG - AGG,512,Gly - Arg,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),1496,AAC - ACC,499,Asn - Thr,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),1495,AAC - GAC,499,Asn - Asp,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),873,ATG - ATC,291,Met - Ile,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),1510,GCG - ACG,504,Ala - Thr,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),730,CAC - AAC,244,His - Asn,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),1534,GGG - AGG,512,Gly - Arg,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),1534,GGG - AGG,512,Gly - Arg,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),1534,GGG - AGG,512,Gly - Arg,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),1496,AAC - ACC,499,Asn - Thr,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),1496,AAC - ACC,499,Asn - Thr,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),1496,AAC - ACC,499,Asn - Thr,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),1495,AAC - GAC,499,Asn - Asp,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),1495,AAC - GAC,499,Asn - Asp,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),1495,AAC - GAC,499,Asn - Asp,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),873,ATG - ATC,291,Met - Ile,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),873,ATG - ATC,291,Met - Ile,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),873,ATG - ATC,291,Met - Ile,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),1510,GCG - ACG,504,Ala - Thr,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),1510,GCG - ACG,504,Ala - Thr,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),1510,GCG - ACG,504,Ala - Thr,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),730,CAC - AAC,244,His - Asn,Taiwan,26787695
+gyrB,Fluoroquinolone (Moxifloxacin),730,CAC - AAC,244,His - Asn,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),730,CAC - AAC,244,His - Asn,Taiwan,26787695
+gyrB,Fluoroquinolone (Ofloxacin),1498,G - C,500,Asp - His,United States,27261264
+gyrB,Fluoroquinolone (Ofloxacin),1613,A - T,538,Asn - Ile,United States,27261264
+gyrB,Fluoroquinolone (Ofloxacin),1616,C - A,539,Thr - Asn,United States,27261264
+gyrB,Fluoroquinolone (Ofloxacin),1498,G - C,500,Asp - His,Tennessee in United States,27261264
+gyrB,Fluoroquinolone (Ofloxacin),1613,A - T,538,Asn - Ile,Tennessee in United States,27261264
+gyrB,Fluoroquinolone (Ofloxacin),1616,C - A,539,Thr - Asn,Tennessee in United States,27261264
+gyrB,Fluoroquinolone (Ofloxacin),1457,TCC - TTC,486,Ser - Phe,northern Taiwan,27572408
+gyrB,Fluoroquinolone (Ofloxacin),1457,TCC - TTC,486,Ser - Phe,NA,27572408
+gyrB,Fluoroquinolone (Ofloxacin),NA,NA,446,Arg - His,China,26486879

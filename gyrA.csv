@@ -1,0 +1,109 @@
+Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+gyrA,Fluoroquinolone (Ciprofloxacin / Ofloxacin / Sparfloxacin),281,GAC - GCC,94,Asp - Ala,NA,7486904
+gyrA,Fluoroquinolone (Ciprofloxacin / Ofloxacin / Sparfloxacin),280,GAC - AAC,94,Asp - Asn,NA,7486904
+gyrA,Fluoroquinolone (Ciprofloxacin / Ofloxacin / Sparfloxacin),280,GAC - AAC,94,Asp - Asn,NA,7486904
+gyrA,Fluoroquinolone (Ciprofloxacin / Ofloxacin / Sparfloxacin),269,GCG - GTG,90,Ala - Val,NA,7486904
+gyrA,Fluoroquinolone,284,AGC - ACC,95,Ser - Thr,NA,7848059
+gyrA,Fluoroquinolone (Ciprofloxacin),280,GAC - TAC,94,Asp - Tyr,NA,8031045
+gyrA,Fluoroquinolone (Ciprofloxacin),281,GAC - GCC,94,Asp - Ala,NA,8031045
+gyrA,Fluoroquinolone (Ciprofloxacin),280,GAC - CAC,94,Asp - His,NA,8031045
+gyrA,Fluoroquinolone (Ciprofloxacin),281,GAC - GGC,94,Asp - Gly,NA,8031045
+gyrA,Fluoroquinolone (Ciprofloxacin),280,GAC - AAC,94,Asp - Asn,NA,8031045
+gyrA,Fluoroquinolone (Ciprofloxacin),271,TCG - CCG,91,Ser - Pro,NA,8031045
+gyrA,Fluoroquinolone (Ciprofloxacin),269,GCG - GTG,90,Ala - Val,NA,8031045
+gyrA,Fluoroquinolone,280,GAC - TAC,94,Asp - Tyr,NA,8031045
+gyrA,Fluoroquinolone,281,GAC - GCC,94,Asp - Ala,NA,8031045
+gyrA,Fluoroquinolone,280,GAC - CAC,94,Asp - His,NA,8031045
+gyrA,Fluoroquinolone,281,GAC - GGC,94,Asp - Gly,NA,8031045
+gyrA,Fluoroquinolone,280,GAC - AAC,94,Asp - Asn,NA,8031045
+gyrA,Fluoroquinolone,271,TCG - CCG,91,Ser - Pro,NA,8031045
+gyrA,Fluoroquinolone,269,GCG - GTG,90,Ala - Val,NA,8031045
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GCC,94,Asp - Ala,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone (Ofloxacin),280,GAC - AAC,94,Asp - Asn,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone (Ofloxacin),271,TCG - CCG,91,Ser - Pro,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone (Ofloxacin),271,TCG - CCG,91,Ser - Pro,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone (Ofloxacin),269,GCG - GTG,90,Ala - Val,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone (Ofloxacin),269,GCG - GTG,90,Ala - Val,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone (Ofloxacin),284,AGC - ACC,95,Ser - Thr,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone (Ofloxacin),284,AGC - ACC,95,Ser - Thr,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone (Ofloxacin),284,AGC - ACC,95,Ser - Thr,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone (Ofloxacin),284,AGC - ACC,95,Ser - Thr,Italy and Abhkazia,15980370
+gyrA,Fluoroquinolone,269,GCG - GGG,90,Ala - Gly,France,16377674
+gyrA,Fluoroquinolone,238,ACC - GCC,80,Thr - Ala,France,16377674
+gyrA,Fluoroquinolone,305,CCC - CAC,102,Pro - His,NA,16584301
+gyrA,Fluoroquinolone (Ofloxacin),263,GGC - GCC,88,Gly - Ala,NA,17015625
+gyrA,Fluoroquinolone,263,GGC - GCC,88,Gly - Ala,NA,17015626
+gyrA,Fluoroquinolone,265,GAC - AAC,89,Asp - Asn,NA,17015626
+gyrA,Fluoroquinolone,220,GCC - TCC,74,Ala - Ser,China,17035499
+gyrA,Fluoroquinolone,281,GAC - GTC,94,Asp - Val,India,17434825
+gyrA,Fluoroquinolone,325,CTG - GTG,109,Leu - Val,India,17434825
+gyrA,Fluoroquinolone,280 - 281,GAC - GTC,94,Asp - Phe,Philippines,19846642
+gyrA,Fluoroquinolone (Moxifloxacin),569,CCG - CTG,190,Pro - Leu,Taiwan,26787695
+gyrA,Fluoroquinolone (Ofloxacin),262,GGC - TGC,88,Gly - Cys,Taiwan,26787695
+gyrA,Fluoroquinolone (Moxifloxacin),262,GGC - TGC,88,Gly - Cys,Taiwan,26787695
+gyrA,Fluoroquinolone (Moxifloxacin),281,GAC - GTC,94,Asp - Val,Taiwan,26787695
+gyrA,Fluoroquinolone (Ofloxacin),280,GAC - TAC,94,Asp - Tyr,Taiwan,26787695
+gyrA,Fluoroquinolone (Moxifloxacin),280,GAC - TAC,94,Asp - Tyr,Taiwan,26787695
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GCC,94,Asp - Ala,Taiwan,26787695
+gyrA,Fluoroquinolone (Moxifloxacin),281,GAC - GCC,94,Asp - Ala,Taiwan,26787695
+gyrA,Fluoroquinolone (Moxifloxacin),280,GAC - CAC,94,Asp - His,Taiwan,26787695
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,Taiwan,26787695
+gyrA,Fluoroquinolone (Moxifloxacin),281,GAC - GGC,94,Asp - Gly,Taiwan,26787695
+gyrA,Fluoroquinolone (Ofloxacin),280,GAC - AAC,94,Asp - Asn,Taiwan,26787695
+gyrA,Fluoroquinolone (Moxifloxacin),280,GAC - AAC,94,Asp - Asn,Taiwan,26787695
+gyrA,Fluoroquinolone (Ofloxacin),1151,GCA - GTA,384,Ala - Val,Taiwan,26787695
+gyrA,Fluoroquinolone (Moxifloxacin),1151,GCA - GTA,384,Ala - Val,Taiwan,26787695
+gyrA,Fluoroquinolone (Ofloxacin),394,GCC - TCC,132,Ala - Ser,Taiwan,26787695
+gyrA,Fluoroquinolone (Moxifloxacin),394,GCC - TCC,132,Ala - Ser,Taiwan,26787695
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,United States,27261264
+gyrA,Fluoroquinolone (Ofloxacin),280,GAC - AAC,94,Asp - Asn,United States,27261264
+gyrA,Fluoroquinolone (Ofloxacin),271,TCG - CCG,91,Ser - Pro,United States,27261264
+gyrA,Fluoroquinolone (Ofloxacin),269,GCG - GTG,90,Ala - Val,United States,27261264
+gyrA,Fluoroquinolone,280,GAC - TAC,94,Asp - Tyr,India,27335153
+gyrA,Fluoroquinolone,281,GAC - GCC,94,Asp - Ala,India,27335153
+gyrA,Fluoroquinolone,281,GAC - GCC,94,Asp - Ala,India,27335153
+gyrA,Fluoroquinolone,281,GAC - GGC,94,Asp - Gly,India,27335153
+gyrA,Fluoroquinolone,280,GAC - AAC,94,Asp - Asn,India,27335153
+gyrA,Fluoroquinolone,271,TCG - CCG,91,Ser - Pro,India,27335153
+gyrA,Fluoroquinolone,269,GCG - GTG,90,Ala - Val,India,27335153
+gyrA,Fluoroquinolone,269,GCG - GTG,90,Ala - Val,India,27335153
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,Thailand,27518818
+gyrA,Fluoroquinolone (Ofloxacin / Moxifloxacin / Gatifloxacin / Levofloxacin),281,GAC - GGC,94,Asp - Gly,Thailand,27518818
+gyrA,Fluoroquinolone (Ofloxacin / Moxifloxacin / Gatifloxacin / Levofloxacin),281,GAC - GGC,94,Asp - Gly,Thailand,27518818
+gyrA,Fluoroquinolone (Ofloxacin / Levofloxacin),280,GAC - AAC,94,Asp - Asn,Thailand,27518818
+gyrA,Fluoroquinolone (Ofloxacin / Moxifloxacin / Levofloxacin),280,GAC - AAC,94,Asp - Asn,Thailand,27518818
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,NA,27572408
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,NA,27572408
+gyrA,Fluoroquinolone (Ofloxacin),265,GAC - AAC,89,Asp - Asn,NA,27572408
+gyrA,Fluoroquinolone (Ofloxacin),280,GAC - AAC,94,Asp - Asn,NA,27572408
+gyrA,Fluoroquinolone (Ofloxacin),271,TCG - CCG,91,Ser - Pro,NA,27572408
+gyrA,Fluoroquinolone (Ofloxacin),269,GCG - GTG,90,Ala - Val,Taiwan,27572408
+gyrA,Fluoroquinolone (Ofloxacin),269,GCG - GTG,90,Ala - Val,NA,27572408
+gyrA,Fluoroquinolone,281,GAC - GCC,94,Asp - Ala,NA,28404672
+gyrA,Fluoroquinolone,281,GAC - GGC,94,Asp - Gly,NA,28404672
+gyrA,Fluoroquinolone,263,GGC - GCC,88,Gly - Ala,NA,28404672
+gyrA,Fluoroquinolone,280,GAC - AAC,94,Asp - Asn,NA,28404672
+gyrA,Fluoroquinolone,271,TCG - CCG,91,Ser - Pro,NA,28404672
+gyrA,Fluoroquinolone,269,GCG - GTG,90,Ala - Val,NA,28404672
+gyrA,Fluoroquinolone (Ofloxacin),280,GAC - TAC,94,Asp - Tyr,China,28438132
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GCC,94,Asp - Ala,China,28438132
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,China,28438132
+gyrA,Fluoroquinolone (Ofloxacin),280,GAC - AAC,94,Asp - Asn,China,28438132
+gyrA,Fluoroquinolone (Ofloxacin),271,TCG - CCG,91,Ser - Pro,China,28438132
+gyrA,Fluoroquinolone (Ofloxacin),269,GCG - GTG,90,Ala - Val,China,28438132
+gyrA,Fluoroquinolone (Ofloxacin),269,GCG - GGG,90,Ala - Gly,China,28438132
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GCC,94,Asp - Ala,Nigeria,28926571
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,Nigeria,28926571
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,Nigeria,28926571
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,Nigeria,28926571
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GGC,94,Asp - Gly,Nigeria,28926571
+gyrA,Fluoroquinolone (Ofloxacin),281,GAC - GCC,94,Asp - Ala,Morocco,29486710
+gyrA,Fluoroquinolone (Ofloxacin),280,GAC - CAC,94,Asp - His,Morocco,29486710
+gyrA,Fluoroquinolone (Ofloxacin),280,GAC - AAC,94,Asp - Asn,Morocco,29486710
+gyrA,Fluoroquinolone (Ofloxacin),271,TCG - CCG,91,Ser - Pro,Morocco,29486710
+gyrA,Fluoroquinolone (Ofloxacin),269,GCG - GTG,90,Ala - Val,Morocco,29486710
+gyrA,Fluoroquinolone (Ofloxacin),268,GCG - ACG,90,Ala - Thr,Morocco,29486710
+gyrA,Fluoroquinolone (Ofloxacin),NA,NA,90,Ala - Val ,China,26486879
+gyrA,Fluoroquinolone (Ofloxacin),NA,NA,94,Asp - Gly,China,26486879
+gyrA,Fluoroquinolone (Ofloxacin),NA,NA,94,Asp - Ala,China,26486879

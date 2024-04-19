@@ -1,0 +1,730 @@
+Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+rpoB,Rifampicin / Rifabutin / Rifapentine,1493,T - C,498,Val - Ala,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1532,T - C,511,Leu - Pro,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1537 - 1539,NA,513,Gln - Leu,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1546,G - T,516,Asp - Tyr,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1547,A - T,516,Asp - Val,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1552 - 1554,NA,518,Asn - Deletion,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1565,C - T,522,Ser - Leu,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1577,A - G,526,His - Arg,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1576,C - G,526,His - Asp,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1578,NA,526,His - Gln,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1577,A - C,526,His - Pro,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1576,C - T,526,His - Tyr,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1592,C - T,531,Ser - Leu,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1592,C - G,531,Ser - Trp,NA,7759399
+rpoB,Rifampicin / Rifabutin / Rifapentine,1592,C - A,531,Ser - Tyr,NA,7759399
+rpoB,Rifampicin,1526,G - C,509,Ser - Thr,Canada,7840574
+rpoB,Rifampicin,1538,A - C,513,Gln - Pro,Philippines,7840574
+rpoB,Rifampicin,1540 - 1542,NA,514,Phe - Insertion,United States,7840574
+rpoB,Rifampicin,1547,A - T,516,Asp - Val,Peru,7840574
+rpoB,Rifampicin,1547,A - T,516,Asp - Val,Switzerland,7840574
+rpoB,Rifampicin,1547,A - G,516,Asp - Gly,United States,7840574
+rpoB,Rifampicin,1547,A - T,516,Asp - Val,United States,7840574
+rpoB,Rifampicin,1547,A - T,516,Asp - Val,Yemen,7840574
+rpoB,Rifampicin,1552 - 1554,NA,518,Asn - Deletion,United States,7840574
+rpoB,Rifampicin,1561 - 1563,NA,521,Leu - Met,United States,7840574
+rpoB,Rifampicin,1565,C - T,522,Ser - Leu,Japan,7840574
+rpoB,Rifampicin,1565,C - T,522,Ser - Leu,United States,7840574
+rpoB,Rifampicin,1576,C - G,526,His - Asp,Canada,7840574
+rpoB,Rifampicin,1577,A - C,526,His - Pro,Japan,7840574
+rpoB,Rifampicin,1577,A - G,526,His - Arg,Japan,7840574
+rpoB,Rifampicin,1577,A - C,526,His - Pro,Peru,7840574
+rpoB,Rifampicin,1576,C - T,526,His - Tyr,Peru,7840574
+rpoB,Rifampicin,1576,C - T,526,His - Tyr,Philippines,7840574
+rpoB,Rifampicin,1577,A - G,526,His - Arg,Rwanda,7840574
+rpoB,Rifampicin,1577,A - T,526,His - Leu,Rwanda,7840574
+rpoB,Rifampicin,1576,C - G,526,His - Asp,Switzerland,7840574
+rpoB,Rifampicin,1576,C - G,526,His - Asp,United States,7840574
+rpoB,Rifampicin,1577,A - T,526,His - Leu,United States,7840574
+rpoB,Rifampicin,1577,A - C,526,His - Pro,United States,7840574
+rpoB,Rifampicin,1576,C - T,526,His - Tyr,United States,7840574
+rpoB,Rifampicin,1576,C - T,526,His - Tyr,Yemen,7840574
+rpoB,Rifampicin,1579,A - C,527,Lys - Gln,United States,7840574
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Canada,7840574
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Peru,7840574
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Philippines,7840574
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,United States,7840574
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Vietnam,7840574
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Yemen,7840574
+rpoB,Rifampicin,1513 - 1515,NA,505,Phe - Leu,France,7914261
+rpoB,Rifampicin,1532,T - C,511,Leu - Pro,France,7914261
+rpoB,Rifampicin,1537 - 1539,NA,513,Phe - Leu,France,7914261
+rpoB,Rifampicin,1540 - 1542,NA,514,Deletion,France,7914261
+rpoB,Rifampicin,1547,A - T,516,Asp - Val,France,7914261
+rpoB,Rifampicin,1555 - 1557,NA,519,Asn - Deletion,France,7914261
+rpoB,Rifampicin,1576,C - T,526,His - Tyr,France,7914261
+rpoB,Rifampicin,1591 - 1593,NA,531,Ser - Cys,France,7914261
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,France,7914261
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,NA,7946393
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,NA,7946393
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,NA,7946393
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,NA,7946393
+rpoB,Rifampicin,1593,TCG - TCT,531,Ser - Ser,NA,7946393
+rpoB,Rifampicin,1598,CTG - CCG,533,Leu - Pro,NA,7946393
+rpoB,Rifampicin,1532,CTG - CCG,511,Leu - Pro,NA,8027320
+rpoB,Rifampicin,1532,CTG - CCG,511,Leu - Pro,NA,8027320
+rpoB,Rifampicin,1532,CTG - CCG,511,Leu - Pro,NA,8027320
+rpoB,Rifampicin,1535,AGC - ACC,512,Ser - Thr,NA,8027320
+rpoB,Rifampicin,1542,TTC - TTT,514,Phe - Phe,NA,8027320
+rpoB,Rifampicin,1548,GAC - GAG,516,Asp - Glu,NA,8027320
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,NA,8027320
+rpoB,Rifampicin,1578,CAC - CAA,526,His - Gln,NA,8027320
+rpoB,Rifampicin,1582,CGA - CGT,528,Arg - Arg,NA,8027320
+rpoB,Rifampicin,1592 - 1593,TCG - TGT,531,Ser - Cys,NA,8027320
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,NA,8027320
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,NA,8027320
+rpoB,Rifampicin,1142,GCG - GTG,381,Ala - Val,Japan,8870258
+rpoB,Rifampicin,1538,CAA - CTA,513,Gln - Leu,Japan,8870258
+rpoB,Rifampicin,1542,TTC - TTG,514,Phe - Leu,Japan,8870258
+rpoB,Rifampicin,1547,GAC - GCC,516,Asp - Ala,Japan,8870258
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Japan,8870258
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,Japan,8870258
+rpoB,Rifampicin,1577,CAC - CCC,526,His - Pro,Japan,8870258
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Japan,8870258
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Japan,8870258
+rpoB,Rifampicin,1598,CTG - CCG,533,Leu - Pro,Japan,8870258
+rpoB,Rifampin,1532,CTG - CGG,511,Leu - Arg,New York City in United States,8913484
+rpoB,Rifampin,1535,AGC - ACC,512,Ser - Thr,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1538,CAA - CTA,513,Gln - Leu,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1537,CAA - AAA,513,Gln - Lys,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1542,TTC - TTT,514,Phe - Phe,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine,1546,GAC - TAC,516,Asp - Tyr,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1576,CAC - AAC,526,His - Asn,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1576,CAC - GAC,526,His - Asp,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1577,CAC - CTC,526,His - Leu,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1576,CAC - TAC,526,His - Tyr,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1582,CGC - CGT,528,Arg - Arg,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1592,TCG - TTG,531,Ser - Leu,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1592,TCG - TGG,531,Ser - Trp,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1598,CTG - CCG,533,Leu - Pro,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1537 - 1542,CAATTC - Deletion,513 - 514,Gln Phe - Deletion,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine,1537 - 1548,AATTCATGG - Deletion,513 - 516,Gln Phe Met Asp His - Deletion,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1546 - 1551,GACCAG - Deletion,516 - 517,Asp Gln - Deletion,New York City in United States,8913484
+rpoB,Rifampin / Rifapentine / Rifalazil,1549 - 1554,CAGAAC - Deletion,517 - 518,Gln Asn - Deletion,New York City in United States,8913484
+rpoB,Rifampin,1520,GGC - GAC,507,Gly - Asp,Korea,9003625
+rpoB,Rifampin,1533,CTG - CTA,511,Leu - Leu,Korea,9003625
+rpoB,Rifampin,1538,CAA - CCA,513,Gln - Pro,Korea,9003625
+rpoB,Rifampin,1543,ATG - GTG,515,Met - Val,Korea,9003625
+rpoB,Rifampin,1546,GAC - TAC,516,Asp - Tyr,Korea,9003625
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,Korea,9003625
+rpoB,Rifampin,1552,AAC - CAC,518,Asn - His,Korea,9003625
+rpoB,Rifampin,1565,TCG - TTG,522,Ser - Leu,Korea,9003625
+rpoB,Rifampin,1577,CAC - CGC,526,His - Arg,Korea,9003625
+rpoB,Rifampin,1576,CAC - GAC,526,His - Asp,Korea,9003625
+rpoB,Rifampin,1576 - 1577,CAC - TGC,526,His - Cys,Korea,9003625
+rpoB,Rifampin,1577,CAC - CTC,526,His - Leu,Korea,9003625
+rpoB,Rifampin,1576,CAC - TAC,526,His - Tyr,Korea,9003625
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Korea,9003625
+rpoB,Rifampin,1514 - 1515,NA,505,Phe - Leu,Greece,9431913
+rpoB,Rifampin,1523,G - C,508,Ser - Thr,Greece,9431913
+rpoB,Rifampin,1547,A - T,516,Asp - Val,Greece,9431913
+rpoB,Rifampin,1577,A - G,526,His - Arg,Greece,9431913
+rpoB,Rifampin,1576,C - G,526,His - Asp,Greece,9431913
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Greece,9431913
+rpoB,Rifampin,1532,CTG - CCG,511,Leu - Pro,Italy,10074552
+rpoB,Rifampin,1535,AGC - ACC,512,Ser - Thr,Italy,10074552
+rpoB,Rifampin,1546,GAC - TAC,516,Asp - Tyr,Italy,10074552
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,Italy,10074552
+rpoB,Rifampin,1567,GGG - TGG,523,Gly - Trp,Italy,10074552
+rpoB,Rifampin,1574,ACC - ATC,525,Thr - Ile,Italy,10074552
+rpoB,Rifampin,1577,CAC - CGC,526,His - Arg,Italy,10074552
+rpoB,Rifampin,1576,CAC - GAC,526,His - Asp,Italy,10074552
+rpoB,Rifampin,1576,CAC - TAC,526,His - Tyr,Italy,10074552
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Italy,10074552
+rpoB,Rifampin,1622,GAG - GAT,541,Glu - Asp,Italy,10074552
+rpoB,Rifampin,1657,TCG - GCG,553,Ser - Ala,Italy,10074552
+rpoB,Rifampin,1511,GAG - GCG,504,Glu - Ala,South Africa,10423225
+rpoB,Rifampin,1532,CTG - CCG,511,Leu - Pro,Namibia,10423225
+rpoB,Rifampin,1532,CTG - CCG,511,Leu - Pro,South Africa,10423225
+rpoB,Rifampin,1538,CAA - CTA,513,Gln - Leu,South Africa,10423225
+rpoB,Rifampin,1537,CAA - AAA,513,Gln - Lys,South Africa,10423225
+rpoB,Rifampin,1547,GAC - GGC,516,Asp - Gly,Namibia,10423225
+rpoB,Rifampin,1546,GAC - AAC,516,Asp - Asn,South Africa,10423225
+rpoB,Rifampin,1546,GAC - TAC,516,Asp - Tyr,South Africa,10423225
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,South Africa,10423225
+rpoB,Rifampin,1566,TCG - TCC,522,Ser - Ser,South Africa,10423225
+rpoB,Rifampin,1577,CAC - CGC,526,His - Arg,South Africa,10423225
+rpoB,Rifampin,1576,CAC - GAC,526,His - Asp,South Africa,10423225
+rpoB,Rifampin,1576 - 1577,CAC - TGC,526,His - Cys,South Africa,10423225
+rpoB,Rifampin,1577,CAC - CTC,526,His - Leu,South Africa,10423225
+rpoB,Rifampin,1576,CAC - TAC,526,His - Tyr,South Africa,10423225
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Sierra Leone and Uganda,10423225
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,South Africa,10423225
+rpoB,Rifampin,1592,TCG - TGG,531,Ser - Trp,South Africa,10423225
+rpoB,Rifampin,1598,CTG - CCG,533,Leu - Pro,South Africa,10423225
+rpoB,Rifabutin / Rifampin,1547,GAC - GTC,516,Asp - Val,Australia,10565894
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,Turkey,10565894
+rpoB,Rifampin,1564 - 1565,TCG - CAG,522,Ser - Gln,Timor in Indonesia,10565894
+rpoB,Rifabutin / Rifampin,1576,CAC - TAC,526,His - Tyr,Australia,10565894
+rpoB,Rifabutin / Rifampin,1576,CAC - TAC,526,His - Tyr,Australia,10565894
+rpoB,Rifabutin / Rifampin,1577,CAC - CGC,526,His - Arg,Egypt,10565894
+rpoB,Rifabutin / Rifampin,1576,CAC - TAC,526,His - Tyr,Ethiopia,10565894
+rpoB,Rifabutin / Rifampin,1576,CAC - GAC,526,His - Asp,Timor in Indonesia,10565894
+rpoB,Rifabutin / Rifampin,1576,CAC - GAC,526,His - Asp,Turkey,10565894
+rpoB,Rifampin,1577,CAC - CTC,526,His - Leu,Vietnam,10565894
+rpoB,Rifabutin / Rifampin,1592,TCG - TTG,531,Ser - Leu,Former Yugoslavia,10565894
+rpoB,Rifabutin / Rifampin,1592,TCG - TTG,531,Ser - Leu,Korea,10565894
+rpoB,Rifabutin / Rifampin,1592,TCG - TTG,531,Ser - Leu,Laos,10565894
+rpoB,Rifabutin / Rifampin,1592,TCG - TTG,531,Ser - Leu,Papua New Guinea,10565894
+rpoB,Rifabutin / Rifampin,1592,TCG - TTG,531,Ser - Leu,Philippines,10565894
+rpoB,Rifabutin / Rifampin,1592,TCG - TTG,531,Ser - Leu,Timor in Indonesia,10565894
+rpoB,Rifabutin / Rifampin,1592,TCG - TTG,531,Ser - Leu,Vietnam,10565894
+rpoB,Rifabutin / Rifampin,1714,ATC - TTC,572,Ile - Phe,Vietnam,10565894
+rpoB,Rifampin,1534,AGC - CGC,512,Ser - Arg,NA,10645439
+rpoB,Rifampin,1545,ATG - ATA,515,Met - Ile,NA,10645439
+rpoB,Rifampin,1547,GAC - GCC,516,Asp - Ala,NA,10645439
+rpoB,Rifampin,1561,CTG - ATG,521,Leu - Met,NA,10645439
+rpoB,Rifampin,1576 - 1577,CAC - GGC,526,His - Gly,NA,10645439
+rpoB,Rifampin,1576 - 1577,CAC - ACC,526,His - Thr,NA,10645439
+rpoB,Rifampin,1592 - 1593,TCG - TGT,531,Ser - Cys,NA,10645439
+rpoB,Rifampin,1591 - 1592,TCG - CAG,531,Ser - Gln,NA,10645439
+rpoB,Rifampin,1519 - 1524,GGCACC - Deletion,507 - 508,Gly Thr - Deletion,NA,10645439
+rpoB,Rifampin,1537 - 1542,CAATTC - Deletion,513 - 514,Gln Phe - Deletion,NA,10645439
+rpoB,Rifampin,1537 - 1548,AATTCATGG - Deletion,513 - 516,Gln - His and Phe Met - Deletion,NA,10645439
+rpoB,Rifampin,1549 - 1557,GAACAA - Deletion,517 - 519,Gln - His and Asn Asn - Deletion,NA,10645439
+rpoB,Rifampin,526,GTC - TTC,176,Val - Phe,Nagasaki in Japan,10722516
+rpoB,Rifampin,1532,CTG - CGG,511,Leu - Arg,Brazil,10921994
+rpoB,Rifampin,1532,CTG - CCG,511,Leu - Pro,Brazil,10921994
+rpoB,Rifampin,1532,CTG - CCG,511,Leu - Pro,Brazil,10921994
+rpoB,Rifampin,1539,CAA - CAC,513,Gln - His,Brazil,10921994
+rpoB,Rifampin,1538,CAA - CCA,513,Gln - Pro,Brazil,10921994
+rpoB,Rifampin,1540,TTC - GTC,514,Phe - Val,Brazil,10921994
+rpoB,Rifampin,1545,ATG - ATA,515,Met - Ile,Brazil,10921994
+rpoB,Rifampin,1546,GAC - TAC,516,Asp - Tyr,Brazil,10921994
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,Brazil,10921994
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,Brazil,10921994
+rpoB,Rifampin,1565,TCG - TTG,522,Ser - Leu,Brazil,10921994
+rpoB,Rifampin,1571,TTG - TGG,524,Leu - Trp,Brazil,10921994
+rpoB,Rifampin,1573,ACC - CCC,525,Thr - Pro,Brazil,10921994
+rpoB,Rifampin,1577,CAC - CGC,526,His - Arg,Brazil,10921994
+rpoB,Rifampin,1576,CAC - GAC,526,His - Asp,Brazil,10921994
+rpoB,Rifampin,1576 - 1577,CAC - TGC,526,His - Cys,Brazil,10921994
+rpoB,Rifampin,1576 - 1577,CAC - TGC,526,His - Cys,Brazil,10921994
+rpoB,Rifampin,1578,CAC - CAG,526,His - Gln,Brazil,10921994
+rpoB,Rifampin,1577,CAC - CTC,526,His - Leu,Brazil,10921994
+rpoB,Rifampin,1577,CAC - CTG,526,His - Leu,Brazil,10921994
+rpoB,Rifampin,1576,CAC - TAC,526,His - Tyr,Brazil,10921994
+rpoB,Rifampin,1579 - 1581,AAG - Deletion,527,Lys - Deletion,Brazil,10921994
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Brazil,10921994
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Brazil,10921994
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Brazil,10921994
+rpoB,Rifampin,1592,TCG - TGG,531,Ser - Trp,Brazil,10921994
+rpoB,Rifampin,1598 -1599,CTG - CCT,533,Leu - Pro,Brazil,10921994
+rpoB,Rifampin,1540 - 1548,TTCATGGAC - Deletion,514 - 516,Phe Met Asp - Deletion,Brazil,10921994
+rpoB,Rifampin,1543 - 1554,ATGGACCAGAAC - Deletion,515 - 518,Met Asp Gln Asn - Deletion,Brazil,10921994
+rpoB,Rifampin,1309 - 1311,NA,437,Ser - Arg,Germany,11136757
+rpoB,Rifampin,1321,G - T,441,Asp - Tyr,Germany,11136757
+rpoB,Rifampin,1339 - 1341,NA,447,Ser - Gln,Germany,11136757
+rpoB,Rifampin,1351,C - G,451,His - Asp,Germany,11136757
+rpoB,Rifampin,1367,C - T,456,Ser - Leu,Germany,11136757
+rpoB,Rifampin,1367,C - G,456,Ser - Trp,Germany,11136757
+rpoB,Rifampin,1486,C - G,496,Leu - Val,Germany,11136757
+rpoB,Rifampin,1672,C - T,558,Arg - Cys,Germany,11136757
+rpoB,Rifampin,1792 - 1794,NA,598,Glu - Asp,Germany,11136757
+rpoB,Rifampin,1523,ACC - AGC,508,Thr - Ser,Tamil Nadu in India,11474030
+rpoB,Rifampin,1532,CTG - CCG,511,Leu - Pro,Kerala in India,11474030
+rpoB,Rifampin,1531,CTG - ATG,511,Leu - Met,Tamil Nadu in India,11474030
+rpoB,Rifampin,1532,CTG - CCG,511,Leu - Pro,Tamil Nadu in India,11474030
+rpoB,Rifampin,1536,AGC - AGG,512,Ser - Arg,Tamil Nadu in India,11474030
+rpoB,Rifampin,1537,CAA - AAA,513,Gln - Lys,Goa in India,11474030
+rpoB,Rifampin,1546 - 1548,GAC - AAA,516,Asp - Lys,Andhra Pradesh in India,11474030
+rpoB,Rifampin,1546,GAC - TAC,516,Asp - Tyr,Sikkim in India,11474030
+rpoB,Rifampin,1549 - 1551,CAG - Deletion,517,Gln - Deletion,Andhra Pradesh in India,11474030
+rpoB,Rifampin,1552,AAC - CAC,518,Asn - His,Tamil Nadu in India,11474030
+rpoB,Rifampin,1577,CAC - CGC,526,His - Arg,Andhra Pradesh in India,11474030
+rpoB,Rifampin,1576 - 1577,CAC - ACC,526,His - Thr,Andhra Pradesh in India,11474030
+rpoB,Rifampin,1576,CAC - TAC,526,His - Tyr,Andhra Pradesh in India,11474030
+rpoB,Rifampin,1576,CAC - GAC,526,His - Asp,Karnataka in India,11474030
+rpoB,Rifampin,1576,CAC - TAC,526,His - Tyr,Kerala in India,11474030
+rpoB,Rifampin,1577,CAC - CTC,526,His - Leu,Sikkim in India,11474030
+rpoB,Rifampin,1576,CAC - GAC,526,His - Asp,Tamil Nadu in India,11474030
+rpoB,Rifampin,1577,CAC - CTC,526,His - Leu,Tamil Nadu in India,11474030
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Andhra Pradesh in India,11474030
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Delhi in India,11474030
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Goa in India,11474030
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Karnataka in India,11474030
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Kerala in India,11474030
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Sikkim in India,11474030
+rpoB,Rifampin,1592,TCG - TGG,531,Ser - Trp,Sikkim in India,11474030
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Tamil Nadu in India,11474030
+rpoB,Rifampin,1592,TCG - TGG,531,Ser - Trp,Tamil Nadu in India,11474030
+rpoB,Rifampin,1596,GCG - GCA,532,Ala - Ala,Tamil Nadu in India,11474030
+rpoB,Rifampin,1599,CTG - CTT,533,Leu - Leu,Tamil Nadu in India,11474030
+rpoB,Rifampin,1525 - 1527,NA,509,Ser - Arg,Ahmedabad in India,11796356
+rpoB,Rifampin,1525 - 1527,NA,509,Ser - Arg,New Delhi in India,11796356
+rpoB,Rifampin,1529 - 1530,NA,510,Gln - His,Chandigarh in India,11796356
+rpoB,Rifampin,1528 - 1530,NA,510,Gln - His,New Delhi in India,11796356
+rpoB,Rifampin,1531 - 1533,NA,511,Leu - Leu,Ahmedabad in India,11796356
+rpoB,Rifampin,1531 - 1533,NA,511,Leu - Leu,Chandigarh in India,11796356
+rpoB,Rifampin,1531,C - G,511,Leu - Val,New Delhi in India,11796356
+rpoB,Rifampin,1531 - 1533,NA,511,Leu - Leu,New Delhi in India,11796356
+rpoB,Rifampin,1547,A - G,516,Asp - Gly,Agra in India,11796356
+rpoB,Rifampin,1547,A - T,516,Asp - Val,Agra in India,11796356
+rpoB,Rifampin,1547,A - G,516,Asp - Gly,Ahmedabad in India,11796356
+rpoB,Rifampin,1547,A - T,516,Asp - Val,Ahmedabad in India,11796356
+rpoB,Rifampin,1547,A - T,516,Asp - Val,Chandigarh in India,11796356
+rpoB,Rifampin,1547,A - G,516,Asp - Gly,New Delhi in India,11796356
+rpoB,Rifampin,1547,A - T,516,Asp - Val,New Delhi in India,11796356
+rpoB,Rifampin,1553,A - C,518,Asn - Thr,Agra in India,11796356
+rpoB,Rifampin,1553,A - C,518,Asn - Thr,Chandigarh in India,11796356
+rpoB,Rifampin,1553,A - C,518,Asn - Thr,New Delhi in India,11796356
+rpoB,Rifampin,1561 - 1563,NA,521,Leu - Leu,New Delhi in India,11796356
+rpoB,Rifampin,1564 - 1566,NA,522,Ser - Gln,Ahmedabad in India,11796356
+rpoB,Rifampin,1564 - 1566,NA,522,Ser - Gln,Chandigarh in India,11796356
+rpoB,Rifampin,1564 - 1566,NA,522,Ser - Gln,New Delhi in India,11796356
+rpoB,Rifampin,1577,A - G,526,His - Arg,Ahmedabad in India,11796356
+rpoB,Rifampin,1576,C - T,526,His - Tyr,Ahmedabad in India,11796356
+rpoB,Rifampin,1577,A - T,526,His - Leu,Chandigarh in India,11796356
+rpoB,Rifampin,1576,C - T,526,His - Tyr,Chandigarh in India,11796356
+rpoB,Rifampin,1577,A - G,526,His - Arg,Chennai in India,11796356
+rpoB,Rifampin,1577,A - G,526,His - Arg,Jaipur in India,11796356
+rpoB,Rifampin,1577,A - T,526,His - Leu,New Delhi in India,11796356
+rpoB,Rifampin,1576,C - T,526,His - Tyr,New Delhi in India,11796356
+rpoB,Rifampin,1576,C - T,526,His - Tyr,New Delhi in India,11796356
+rpoB,Rifampin,1579 - 1581,NA,527,Lys - Asn,New Delhi in India,11796356
+rpoB,Rifampin,1584,G - C,528,Arg - Pro,Ahmedabad in India,11796356
+rpoB,Rifampin,1582 - 1584,NA,528,Arg - His,New Delhi in India,11796356
+rpoB,Rifampin,1584,G - C,528,Arg - Pro,New Delhi in India,11796356
+rpoB,Rifampin,1584,G - C,528,Arg - Pro,New Delhi in India,11796356
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Agra in India,11796356
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Ahmedabad in India,11796356
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Bangalore in India,11796356
+rpoB,Rifampin,1592,C - G,531,Ser - Trp,Bangalore in India,11796356
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Chandigarh in India,11796356
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Jaipur in India,11796356
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,New Delhi in India,11796356
+rpoB,Rifampin,1592,C - G,531,Ser - Trp,New Delhi in India,11796356
+rpoB,Rifampin,1530 - 1530,NA,510,Gln - His,Latvia,12354882
+rpoB,Rifampin,1546,G - T,516,Asp - Tyr,Latvia,12354882
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,Latvia,12354882
+rpoB,Rifampin,1576,CAC - GAC,526,His - Asp,Latvia,12354882
+rpoB,Rifampin,1576,C - T,526,His - Tyr,Latvia,12354882
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Latvia,12354882
+rpoB,Rifampin,1598,T - C,533,Leu - Pro,Latvia,12354882
+rpoB,Rifampin,1603,C - T,535,Pro - Ser,Latvia,12354882
+rpoB,Rifampicin,1470,CAG - CAT,490,Gln - His,Turkey,12454132
+rpoB,Rifampicin,1538,CAA - CCA,513,Gln - Pro,Turkey,12454132
+rpoB,Rifampicin,1543 - 1545,CGG - Insertion,515,Arg - Insertion,Turkey,12454132
+rpoB,Rifampicin,1545,ATG - ATC,515,Met - Ile,Turkey,12454132
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,Turkey,12454132
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Turkey,12454132
+rpoB,Rifampicin,1565,TCG - TGG,522,Ser - Trp,Turkey,12454132
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,Turkey,12454132
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,Turkey,12454132
+rpoB,Rifampicin,1576 - 1577,CAC - TGC,526,His - Cys,Turkey,12454132
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Turkey,12454132
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Turkey,12454132
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,Turkey,12454132
+rpoB,Rifampicin,1598,CTG - CCG,533,Leu - Pro,Turkey,12454132
+rpoB,Rifampicin,1598,CTG - CCG,533,Leu - Pro,Turkey,12454132
+rpoB,Rifampin,1538,A - C,513,Gln - Pro,Casablanca in Morocco,12870687
+rpoB,Rifampin,1547,A - T,516,Asp - Val,Casablanca in Morocco,12870687
+rpoB,Rifampin,1564 - 1566,NA,522,Ser - Asn,Casablanca in Morocco,12870687
+rpoB,Rifampin,1567,G - T,523,Gly - Trp,Casablanca in Morocco,12870687
+rpoB,Rifampin,1577,A - G,526,His - Arg,Casablanca in Morocco,12870687
+rpoB,Rifampin,1576,C - G,526,His - Asp,Casablanca in Morocco,12870687
+rpoB,Rifampin,1577,A - T,526,His - Leu,Casablanca in Morocco,12870687
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Casablanca in Morocco,12870687
+rpoB,Rifampin,1592,C - G,531,Ser - Trp,Casablanca in Morocco,12870687
+rpoB,Rifampin,1333 - 1334,CAC - TGC,445,His - Cys,Poland,14729930
+rpoB,Rifampin,1304,GAC - GTC,435,Asp - Val,Poland,14729930
+rpoB,Rifampin,1333,CAC - GAC,445,His - Asp,Poland,14729930
+rpoB,Rifampin,1355,CTG - CCG,452,Leu - Pro,Poland,14729930
+rpoB,Rifampin,1349,TCG - TTG,450,Ser - Leu,Poland,14729930
+rpoB,Rifampin,1333,CAC - AAC,445,His - Asn,Poland,14729930
+rpoB,Rifampin,1333,CAC - TAC,445,His - Tyr,Poland,14729930
+rpoB,Rifampin,1305,GAC - GAG,435,Asp - Glu,Poland,14729930
+rpoB,Rifampin,1322,TCG - TTG,441,Ser - Leu,Poland,14729930
+rpoB,Rifampin,1438,ATC - GTC,480,Ile - Val,Poland,14729930
+rpoB,Rifampin,1530,CAG - CAC,510,Gln - His,Poland,15184414
+rpoB,Rifampin,1535,AGC - ATC,512,Ser - Ile,Poland,15184414
+rpoB,Rifampin,1538,CAA - CTA,513,Gln - Leu,Poland,15184414
+rpoB,Rifampin,1537,CAA - AAA,513,Gln - Lys,Poland,15184414
+rpoB,Rifampin,1540 - 1542,TTC - insertion,514,Phe - insertion,Poland,15184414
+rpoB,Rifampin,1545,ATG - ATT,515,Met - Ile,Poland,15184414
+rpoB,Rifampin,1547,GAC - GGC,516,Asp - Gly,Poland,15184414
+rpoB,Rifampin,1547,GAC - GGC,516,Asp - Gly,Poland,15184414
+rpoB,Rifampin,1546,GAC - TAC,516,Asp - Tyr,Poland,15184414
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,Poland,15184414
+rpoB,Rifampin,1547,GAC - GTG,516,Asp - Val,Poland,15184414
+rpoB,Rifampin,1550,CAA - CTA,517,Gln - Leu,Poland,15184414
+rpoB,Rifampin,1565,TCG - TTG,522,Ser - Leu,Poland,15184414
+rpoB,Rifampin,1576,CAC - AAC,526,His - Asn,Poland,15184414
+rpoB,Rifampin,1576,CAC - GAC,526,His - Asp,Poland,15184414
+rpoB,Rifampin,1576 - 1577,CAC - TGC,526,His - Cys,Poland,15184414
+rpoB,Rifampin,1576 - 1577,CAC - ACC,526,His - Thr,Poland,15184414
+rpoB,Rifampin,1576,CAC - TAC,526,His - Tyr,Poland,15184414
+rpoB,Rifampin,1586,CGA - CAA,529,Arg - Gln,Poland,15184414
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Poland,15184414
+rpoB,Rifampin,1592,TCG - TGG,531,Ser - Trp,Poland,15184414
+rpoB,Rifampicin,526,GTC - TTC,176,Val - Phe,Germany,15728936
+rpoB,Rifampicin,1538,CAA - CCA,513,Gln - Pro,Germany,15728936
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,Germany,15728936
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Germany,15728936
+rpoB,Rifampicin,1549 - 1551,Deletion,517,Deletion,Germany,15728936
+rpoB,Rifampicin,1553,AAC - ATC,518,Asn - Ile,Germany,15728936
+rpoB,Rifampicin,1555 - 1557,Deletion,519,Deletion,Germany,15728936
+rpoB,Rifampicin,1564 - 1565,TCG - CAG,522,Ser - Gln,Germany,15728936
+rpoB,Rifampicin,1565,TCG - TTG,522,Ser - Leu,Germany,15728936
+rpoB,Rifampicin,1565,TCG - TTG,522,Ser - Leu,Germany,15728936
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,Germany,15728936
+rpoB,Rifampicin,1576,CAC - AAC,526,His - Asn,Germany,15728936
+rpoB,Rifampicin,1576 - 1577,CAC - TGC,526,His - Cys,Germany,15728936
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,Germany,15728936
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Germany,15728936
+rpoB,Rifampicin,1577,TCG - TGG,526,Ser - Trp,Germany,15728936
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Germany,15728936
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Germany,15728936
+rpoB,Rifampicin,1592 - 1593,TCG - TTT,531,Ser - Phe,Germany,15728936
+rpoB,Rifampicin,1540 - 1548,Deletion,514 - 516,NA,Germany,15728936
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,NA,15814606
+rpoB,Rifampicin,1543 - 1545,TTC - Insertion,515,Phe - Insertion,Kazakhstan,16229229
+rpoB,Rifampicin,1547,GAC - GGC,516,Asp - Gly,Kazakhstan,16229229
+rpoB,Rifampicin,1546 - 1547,GAC - TTC,516,Asp - Phe,Kazakhstan,16229229
+rpoB,Rifampicin,1527,AGC - AGG,509,Ser - Arg,Japan,17108078
+rpoB,Rifampicin,1538,CAA - CTA,513,Gln - Leu,Poland,17108078
+rpoB,Rifampicin,1545,ATG - ATT,515,Met - Ile,Japan,17108078
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,Japan,17108078
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Japan,17108078
+rpoB,Rifampicin,1565,TCG - TTG,522,Ser - Leu,Japan,17108078
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,Japan,17108078
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,Japan,17108078
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Japan,17108078
+rpoB,Rifampicin,1576 - 1577,CAC - ACC,526,His - Thr,Poland,17108078
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Japan,17108078
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,Japan,17108078
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Poland,17108078
+rpoB,Rifampicin,1515 - 1515,NA,505,Phe - Leu,Hong Kong,17360809
+rpoB,Rifampicin,1546,G - T,516,Asp - Tyr,Hong Kong,17360809
+rpoB,Rifampicin,1547,A - T,516,Asp - Val,Hong Kong,17360809
+rpoB,Rifampicin,1576,C - T,526,His - Tyr,Hong Kong,17360809
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Hong Kong,17360809
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Hong Kong,17360809
+rpoB,Rifampicin,1532,CTG - CCG,511,Leu - Pro,Russia,17403134
+rpoB,Rifampicin,1538,CAA - CCA,513,Gln - Pro,Russia,17403134
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Russia,17403134
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,Russia,17403134
+rpoB,Rifampicin,1565,TCG - TTG,522,Ser - Leu,Russia,17403134
+rpoB,Rifampicin,1565,TCG - CAG,522,Ser - Glu,Russia,17403134
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,Russia,17403134
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Russia,17403134
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,Russia,17403134
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,Russia,17403134
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,Russia,17403134
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Russia,17403134
+rpoB,Rifampicin,1598,CTG - CCG,533,Leu - Pro,Russia,17403134
+rpoB,Rifampicin,1540 - 1545,CAT - Deletion,514 - 515,NA,Russia,17403134
+rpoB,Rifampicin,1538,CAA - CCA,513,Gln - Pro,eastern China,17970586
+rpoB,Rifampicin,1547,GAC - GGC,516,Asp - Gly,eastern China,17970586
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,eastern China,17970586
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,eastern China,17970586
+rpoB,Rifampicin,1564,TCG - CCG,522,Ser - Pro,eastern China,17970586
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,eastern China,17970586
+rpoB,Rifampicin,1576,CAC - AAC,526,His - Asn,eastern China,17970586
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,eastern China,17970586
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,eastern China,17970586
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,eastern China,17970586
+rpoB,Rifampicin,1591 - 1592,TCG - TAG,531,Ser - Stop,eastern China,17970586
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,eastern China,17970586
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,eastern China,17970586
+rpoB,Rifampicin,436,GTC - TTC,146,Gln - Lys,Thailand,18294243
+rpoB,Rifampicin,1532,CTG - CGG,511,Leu - Arg,Thailand,18294243
+rpoB,Rifampicin,1543,ATG - CTG,515,Met - Val,Thailand,18294243
+rpoB,Rifampicin,1548,GAC - GAG,516,Asp - Glu,Thailand,18294243
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,Thailand,18294243
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Thailand,18294243
+rpoB,Rifampicin,1565,TCG - TTG,522,Ser - Leu,Thailand,18294243
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,Thailand,18294243
+rpoB,Rifampicin,1576 - 1577,CAC - AGC,526,His - Ser,Thailand,18294243
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Thailand,18294243
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Thailand,18294243
+rpoB,Rifampicin,1604,CCC - CAC,535,Pro - His,Thailand,18294243
+rpoB,Rifampicin,1622,GAG - GGG,541,Glu - Gly,Thailand,18294243
+rpoB,Rifampicin,1864,TCG - GCG,622,Ser - Ala,Thailand,18294243
+rpoB,Rifampicin,1537 - 1542,ATTCATGGA - Deletion,513 - 514,Ile His Gly - Deletion,Thailand,18294243
+rpoB,Rifampicin,1552 - 1557,CAA - Deletion,518 - 519,NA,Thailand,18294243
+rpoB,Rifampicin,1537,CAA - GAA,513,Gln - Glu,eastern China,18422555
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,eastern China,18422555
+rpoB,Rifampicin,1577,CAC - CTT,526,His - Leu,eastern China,18422555
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,eastern China,18422555
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,Hebei Province in China,18600483
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,Hebei Province in China,18600483
+rpoB,Rifampicin,1577,CAC - CCC,526,His - Pro,Hebei Province in China,18600483
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Hebei Province in China,18600483
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Val,Hebei Province in China,18600483
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Hebei Province in China,18600483
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,Hebei Province in China,18600483
+rpoB,Rifampicin,1592,TCG - TAC,531,Ser - Tyr,Hebei Province in China,18600483
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,southern Turkey,18653964
+rpoB,Rifampicin,1572,TTG - TTA,524,Leu - Leu,southern Turkey,18653964
+rpoB,Rifampicin,1591,TCG - GCG,531,Ser - Ala,southern Turkey,18653964
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,southern Turkey,18653964
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,southern Turkey,18653964
+rpoB,Rifampicin,1633,CTG - ATG,545,Leu - Met,southern Turkey,18653964
+rpoB,Rifampicin,1513,C - A,505,Phe - Leu,New Delhi in India,19234602
+rpoB,Rifampicin,1532,T - C,511,Leu - Pro,New Delhi in India,19234602
+rpoB,Rifampicin,1537,C - A,513,Gln - Lys,New Delhi in India,19234602
+rpoB,Rifampicin,1547,A - T,516,Asp - Val,New Delhi in India,19234602
+rpoB,Rifampicin,1576,C - A,526,His - Asn,New Delhi in India,19234602
+rpoB,Rifampicin,1576,C - G,526,His - Asp,New Delhi in India,19234602
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,New Delhi in India,19234602
+rpoB,Rifampicin,1598,T - C,533,Leu - Pro,New Delhi in India,19234602
+rpoB,Rifampicin,1532,CTG - CCG,511,Leu - Pro,Clamart in France,19520715
+rpoB,Rifampicin,1537,CAA - AAA,513,Gln - Lys,Clamart in France,19520715
+rpoB,Rifampicin,1538,CAA - CCA,513,Gln - Pro,Clamart in France,19520715
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,Clamart in France,19520715
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Clamart in France,19520715
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,Clamart in France,19520715
+rpoB,Rifampicin,1576,CAC - AAC,526,His - Asn,Clamart in France,19520715
+rpoB,Rifampicin,1576,CAC - AAC,526,His - Asn,Clamart in France,19520715
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,Clamart in France,19520715
+rpoB,Rifampicin,1576 - 1577,CAC - TGC,526,His - Cys,Clamart in France,19520715
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,Clamart in France,19520715
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Clamart in France,19520715
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Clamart in France,19520715
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,Clamart in France,19520715
+rpoB,Rifampicin,1598,CTG - CCG,533,Leu - Pro,Clamart in France,19520715
+rpoB,Rifampicin,1598,CTG - CCG,533,Leu - Pro,Clamart in France,19520715
+rpoB,Rifampicin,1685,GAA - GGA,562,Glu - Gly,Clamart in France,19520715
+rpoB,Rifampicin,1691,CCT - CTT,564,Pro - Leu,Clamart in France,19520715
+rpoB,Rifampicin,1537 - 1548,AATTCATGG deletion,513 - 516,NA,Clamart in France,19520715
+rpoB,Rifampin,1525 - 1527,AGC - CAG,509,Ser - Gln,Veracruz in Mexico,19547874
+rpoB,Rifampin,1528,CAG - AAG,510,Gln - Lys,Veracruz in Mexico,19547874
+rpoB,Rifampin,1546,GAC - TAC,516,Asp - Tyr,Veracruz in Mexico,19547874
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,Veracruz in Mexico,19547874
+rpoB,Rifampin,1550 - 1551,CAG - CTA,517,Gln - Leu,Veracruz in Mexico,19547874
+rpoB,Rifampin,1562 - 1563,CTG - CCT,521,Leu - Pro,Veracruz in Mexico,19547874
+rpoB,Rifampin,1571,TTG - TCG,524,Leu - Ser,Veracruz in Mexico,19547874
+rpoB,Rifampin,1576,CAC - GAC,526,His - Asp,Veracruz in Mexico,19547874
+rpoB,Rifampin,1576 - 1577,CAC - TGC,526,His - Cys,Veracruz in Mexico,19547874
+rpoB,Rifampin,1583 - 1584,CGC - CCT,528,Arg - Pro,Veracruz in Mexico,19547874
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Veracruz in Mexico,19547874
+rpoB,Rifampin,1592,TCG - TGG,531,Ser - Trp,Veracruz in Mexico,19547874
+rpoB,Rifampin,1522,ACC - CAC,508,Thr - His,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1522,ACC - CCC,508,Thr - Pro,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1522,ACC - GCC,508,Thr - Ala,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1520 - 1521,GGC - GAT,507,Gly - Asp,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1519,GGC - AGC,507,Gly - Ser,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1521,GGC - GGT,507,Gly - Gly,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1532,CTG - CCG,511,Leu - Pro,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1531,CTG - GTG,511,Leu - Val,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1535,AGC - GGC,512,Ser - Thr,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1537,CAA - TAA,513,Gln - Stop,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1537 - 1539,CAA - AAT,513,Gln - Asn,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1537,CAA - GAA,513,Gln - Glu,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1546,GAC - CAC,516,Asp - His,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1557,AAC - AAG,519,Asn - Lys,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1568,GGG - GCG,523,Gly - Ala,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1577,CAC - CGC,526,His - Arg,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1578,CAC - CAA,526,His - Gln,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1576 - 1577,CAC - TTC,526,His - Phe,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1576,CAC - TAC,526,His - Tyr,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1576,CAC - TAC,526,His - Tyr,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampin,1592 - 1593,TCG - TTC,531,Ser - Phe,southern region (Afghanistan border) of Iran,19721079
+rpoB,Rifampicin,1532,CTG - CCG,511,Leu - Pro,West of Iran,25526063
+rpoB,Rifampicin,1535,AGC - ACC,512,Ser - Thr,West of Iran,25526063
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,West of Iran,25526063
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,West of Iran,25526063
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,West of Iran,25526063
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,West of Iran,25526063
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,West of Iran,25526063
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,West of Iran,25526063
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,West of Iran,25526063
+rpoB,Rifampicin,1513,TTC - GTC,505,Phe - Val,Santa Catarina in southern Brazil,26154743
+rpoB,Rifampicin,1534,AGC - GGC,512,Ser - Gly,Santa Catarina in southern Brazil,26154743
+rpoB,Rifampicin,1546 - 1547,GAC - TTC,516,Asp - Phe,Santa Catarina in southern Brazil,26154743
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Santa Catarina in southern Brazil,26154743
+rpoB,Rifampicin,1576,CAC - AAC,526,His - Asn,Santa Catarina in southern Brazil,26154743
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,Santa Catarina in southern Brazil,26154743
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Santa Catarina in southern Brazil,26154743
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Santa Catarina in southern Brazil,26154743
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,Santa Catarina in southern Brazil,26154743
+rpoB,Rifampicin,1714,ATC - GTC,572,Ile - Val,Santa Catarina in southern Brazil,26154743
+rpoB,Rifampicin,1532,T - C,511,Leu - Pro,Myanmar,26206685
+rpoB,Rifampicin,1547,A - T,516,Asp - Val,Myanmar,26206685
+rpoB,Rifampicin,1576,C - T,526,His - Tyr,Myanmar,26206685
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Myanmar,26206685
+rpoB,Rifampin,1547,A - T,516,Asp - Val,Himachal Pradesh in India,26470962
+rpoB,Rifampin,1576,C - G,526,His - Asp,Himachal Pradesh in India,26470962
+rpoB,Rifampin,1576,C - T,526,His - Tyr,Himachal Pradesh in India,26470962
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Himachal Pradesh in India,26470962
+rpoB,Rifampicin,1529,CAG - CCG,510,Gln - Arg,Myanmar,26806152
+rpoB,Rifampicin,1538,CAA - CCA,513,Gln - Pro,Myanmar,26806152
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,Myanmar,26806152
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Myanmar,26806152
+rpoB,Rifampicin,1550,CAG - CCG,517,Gln - Pro,Myanmar,26806152
+rpoB,Rifampicin,1552,AAC - GAC,518,Asn - Asp,Myanmar,26806152
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,Myanmar,26806152
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,Myanmar,26806152
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,Myanmar,26806152
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Myanmar,26806152
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Myanmar,26806152
+rpoB,Rifampicin,1592 - 1593,TCG - TTT,531,Ser - Phe,Myanmar,26806152
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,Myanmar,26806152
+rpoB,Rifampicin,1598,CTG - CCG,533,Leu - Pro,Myanmar,26806152
+rpoB,Rifampicin,1546 - 1548,NA,516,Asp - Phe,Russia,26929267
+rpoB,Rifampicin,1349,TCG - TTG,450,Ser - Leu,NA,27156618
+rpoB,Rifampicin,1576,CAC - AAC,526,His - Asn,Beijing in China,27176471
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,Beijing in China,27176471
+rpoB,Rifampicin,1576 - 1577,CAC - TGC,526,His - Cys,Beijing in China,27176471
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,Beijing in China,27176471
+rpoB,Rifampicin,1576 - 1577,CAC - ACC,526,His - Thr,Beijing in China,27176471
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Beijing in China,27176471
+rpoB,Rifampicin,1576 - 1577,CAC - GTC,526,His - Val,Beijing in China,27176471
+rpoB,Rifampicin,1591 - 1592,TCG - CAG,531,Ser - Gln,Beijing in China,27176471
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Beijing in China,27176471
+rpoB,Rifampicin,1592 - 1593,TCG - TTC,531,Ser - Phe,Beijing in China,27176471
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,Beijing in China,27176471
+rpoB,Rifampin,1537,C - G,513,Gln - Glu,NA,27226566
+rpoB,Rifampicin,1294,C - A,432,Gln - Lys,Ghana,27450017
+rpoB,Rifampicin,1295,A - C,432,Gln - Pro,Ghana,27450017
+rpoB,Rifampicin,1303,G - T,435,Asp - Tyr,Ghana,27450017
+rpoB,Rifampicin,1304,A - T,435,Asp - Val,Ghana,27450017
+rpoB,Rifampicin,1322,C - T,441,Ser - Leu,Ghana,27450017
+rpoB,Rifampicin,1334,A - G,445,His - Arg,Ghana,27450017
+rpoB,Rifampicin,1333,C - G,445,His - Asp,Ghana,27450017
+rpoB,Rifampicin,1333 - 1334,CA - TG,445,His - Cys,Ghana,27450017
+rpoB,Rifampicin,1333,C - T,445,His - Tyr,Ghana,27450017
+rpoB,Rifampicin,1349,C - T,450,Ser - Leu,Ghana,27450017
+rpoB,Rifampicin,1472,T - G,491,Ile - Ser,Ghana,27450017
+rpoB,Rifampicin,1438 - 1440,NA,480,Thr - Ile,Quebec in Canada,27459848
+rpoB,Rifampicin,269,GAC - GTC,90,Asp - Val,Malaysia,27540322
+rpoB,Rifampicin,355,CAC - TAC,119,His - Tyr,Malaysia,27540322
+rpoB,Rifampicin,403,CGG - TGG,135,Arg - Trp,Malaysia,27540322
+rpoB,Rifampicin,404,TCG - TTG,135,Ser - Leu,Malaysia,27540322
+rpoB,Rifampicin,1538,A - C,513,Gln - Pro,Mexico,27637930
+rpoB,Rifampicin,1565,C - T,522,Ser - Leu,Mexico,27637930
+rpoB,Rifampicin,1577,A - G,526,His - Arg,Mexico,27637930
+rpoB,Rifampicin,1576,C - G,526,His - Asp,Mexico,27637930
+rpoB,Rifampicin,1576,C - T,526,His - Tyr,Mexico,27637930
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Mexico,27637930
+rpoB,Rifampicin,1592,C - G,531,Ser - Trp,Mexico,27637930
+rpoB,Rifampicin,1591 - 1593,NA,531,Ser - Val,Mexico,27637930
+rpoB,Rifampicin,279 - 321,ACCAGCCAGCTGAGC - Deletion,93 - 107,NA,Mexico,27637930
+rpoB,Rifabutin / Rifampicin,755,T - A,252,Val - Glu,South Africa,27994580
+rpoB,Rifampicin,826 - 828,NA,276,Val - Leu,South Africa,27994580
+rpoB,Rifampicin,826,G - T,276,Val - Phe,South Africa,27994580
+rpoB,Rifampicin,1540 - 1542,TTC - Insertion,514,Phe - Insertion,South Africa,27994580
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,South Africa,27994580
+rpoB,Rifampicin,1577,CAC - CGC,526,His - Arg,South Africa,27994580
+rpoB,Rifabutin / Rifampicin,1576,CAC - GAC,526,His - Asp,South Africa,27994580
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,South Africa,27994580
+rpoB,Rifampicin,1577,CAC - CCC,526,His - Pro,South Africa,27994580
+rpoB,Rifabutin / Rifampicin,1576,CAG - TAC,526,His - Tyr,South Africa,27994580
+rpoB,Rifampicin,1591 - 1592,TCG - CAG,531,Ser - Gln,South Africa,27994580
+rpoB,Rifabutin / Rifampicin,1592,TCG - TTG,531,Ser - Leu,South Africa,27994580
+rpoB,Rifampicin,1598,CTG - CCC,533,Leu - Pro,South Africa,27994580
+rpoB,Rifampicin,1471,ATC - TTC,491,Ile - Phe,Swaziland,27998822
+rpoB,Rifampin,1576,C - A,526,His - Asn,Yunnan in China,28623123
+rpoB,Rifampin,1576,C - T,526,His - Tyr,Yunnan in China,28623123
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Yunnan in China,28623123
+rpoB,Rifampin,1843,G - A,615,Val - Met,Yunnan in China,28623123
+rpoB,Rifampicin,1576,ACA - GCA,526,Thr - Ala,Delhi in India,28709491
+rpoB,Rifampicin,634 - 636,NA,212,Lys - Lys,Delhi in India,28709491
+rpoB,Rifampicin,527 - 528,CAG - CTT,176,Gln - Leu,Delhi in India,28709491
+rpoB,Rifampicin,565 - 567,NA,189,Tyr - Tyr,Delhi in India,28709491
+rpoB,Rifampicin,583 - 585,NA,195,Arg - Arg,Delhi in India,28709491
+rpoB,Rifampicin,1531 - 1533,NA,511,Leu - Arg,Delhi in India,28709491
+rpoB,Rifampicin,1532,CTG - CCG,511,Leu - Pro,Delhi in India,28709491
+rpoB,Rifampicin,1531 - 1533,NA,511,Leu - Leu,Delhi in India,28709491
+rpoB,Rifampicin,1536,AGC - AGG,512,Ser - Arg,Delhi in India,28709491
+rpoB,Rifampicin,1537 - 1539,NA,513,Ser - Ser,Delhi in India,28709491
+rpoB,Rifampicin,1545,ATG - ATT,515,Met - Ile,Delhi in India,28709491
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,Delhi in India,28709491
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Delhi in India,28709491
+rpoB,Rifampicin,1551,CAG - CAT,517,Gln - His,Delhi in India,28709491
+rpoB,Rifampicin,1566,TCG - TCT,522,Ser - Ser,Delhi in India,28709491
+rpoB,Rifampicin,1570,TTG - CTG,524,Leu - Leu,Delhi in India,28709491
+rpoB,Rifampicin,1576,CAC - GAC,526,His - Asp,Delhi in India,28709491
+rpoB,Rifampicin,1578,CAC - CAA,526,His - Gln,Delhi in India,28709491
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Delhi in India,28709491
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,Delhi in India,28709491
+rpoB,Rifampicin,1603,CCG - TCG,535,Pro - Ser,Delhi in India,28709491
+rpoB,Rifampicin,1611,GGT - GGA,537,Gly - Gly,Delhi in India,28709491
+rpoB,Rifampicin,1612,CTG - ATG,538,Leu - Met,Delhi in India,28709491
+rpoB,Rifampicin,1624,GTG - TTG,542,Val - Leu,Delhi in India,28709491
+rpoB,Rifampicin,1658,TCG - TTG,553,Ser - Leu,Delhi in India,28709491
+rpoB,Rifampicin,1668,GGC - GGT,556,Gly - Gly,Delhi in India,28709491
+rpoB,Rifampin,1576,C - T,526,His - Tyr,Nigeria,28716462
+rpoB,Rifampin,1532,CTG - CCG,511,Leu - Pro,South Korea,28747960
+rpoB,Rifampin,1543,ATG - GTG,515,Met - Val,South Korea,28747960
+rpoB,Rifampin,1546,GAC - TAC,516,Asp - Tyr,South Korea,28747960
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,South Korea,28747960
+rpoB,Rifampin,1576,CAC - AAC,526,His - Asn,South Korea,28747960
+rpoB,Rifampin,1576,CAC - GAC,526,His - Asp,South Korea,28747960
+rpoB,Rifampin,1577,CAC - CTC,526,His - Leu,South Korea,28747960
+rpoB,Rifampin,1576,CAC - TAC,526,His - Tyr,South Korea,28747960
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,South Korea,28747960
+rpoB,Rifampin,1598,CTG - CCG,533,Leu - Pro,South Korea,28747960
+rpoB,Rifampin,1547,A - T,516,Asp - Val,Punjab state of India,28756826
+rpoB,Rifampin,1576,C - T,526,His - Tyr,Punjab state of India,28756826
+rpoB,Rifampin,1576,C - G,526,His - Asp,Punjab state of India,28756826
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Punjab state of India,28756826
+rpoB,Rifampicin,1576 - 1577,CAC - TGC,526,His - Cys,Morocco,28784099
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,Morocco,28784099
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Morocco,28784099
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Morocco,28784099
+rpoB,Rifampicin,1592,TCG - TGG,531,Ser - Trp,Morocco,28784099
+rpoB,Rifampin,1537,CAA - AAA,513,Gln - Lys,Taiwan,28840388
+rpoB,Rifampin,1547,GAC - GTC,516,Asp - Val,Taiwan,28840388
+rpoB,Rifampin,1576 - 1577,CAC - TGC,526,His - Cys,Taiwan,28840388
+rpoB,Rifampin,1592,TCG - TTG,531,Ser - Leu,Taiwan,28840388
+rpoB,Rifampin,1592,TCG - TGG,531,Ser - Trp,Taiwan,28840388
+rpoB,Rifampin,1598,CTG - CCG,533,Leu - Pro,Taiwan,28840388
+rpoB,Rifampin,1532,T - C,511,Leu - Pro,Ukraine,29563202
+rpoB,Rifampin,1547,A - C,516,Asp - Ala,Ukraine,29563202
+rpoB,Rifampin,1546,G - T,516,Asp - Tyr,Ukraine,29563202
+rpoB,Rifampin,1547,A - T,516,Asp - Val,Ukraine,29563202
+rpoB,Rifampin,1577,A - G,526,His - Arg,Ukraine,29563202
+rpoB,Rifampin,1576,C - G,526,His - Asp,Ukraine,29563202
+rpoB,Rifampin,1576 - 1577,NA,526,His - Ser,Ukraine,29563202
+rpoB,Rifampin,1576 - 1578,NA,526,His - His,Ukraine,29563202
+rpoB,Rifampin,1592,C - T,531,Ser - Leu,Ukraine,29563202
+rpoB,Rifampin,1591 - 1593,NA,531,Ser - Phe,Ukraine,29563202
+rpoB,Rifampin,1591 - 1593,NA,531,Ser - Ser,Ukraine,29563202
+rpoB,Rifampin,1598,T - C,533,Leu - Pro,Ukraine,29563202
+rpoB,Rifampicin,1546,G - T,516,Asp - Tyr,Germany,29593055
+rpoB,Rifampicin,1547,A - T,516,Asp - Val,Germany,29593055
+rpoB,Rifampicin,1577,A - G,526,His - Arg,Germany,29593055
+rpoB,Rifampicin,1576,C - A,526,His - Asn,Germany,29593055
+rpoB,Rifampicin,1576,C - G,526,His - Asp,Germany,29593055
+rpoB,Rifampicin,1577,A - C,526,His - Pro,Germany,29593055
+rpoB,Rifampicin,1576,C - T,526,His - Tyr,Germany,29593055
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Germany,29593055
+rpoB,Rifampicin,1598,T - C,533,Leu - Pro,Germany,29593055
+rpoB,Rifampicin,1576,C - G,526,His - Asp,NA,29616007
+rpoB,Rifampicin,1334,A - T,445,His - Leu,Brazil,29779775
+rpoB,Rifampicin,1349,TCG - TTG,450,Ser - Leu,Brazil,29779775
+rpoB,Rifampicin,1349,TCG - TTG,450,Ser - Leu,Mozambique,29779775
+rpoB,Rifampicin,1333,CAC - TAC,445,His - Tyr,Mozambique,29779775
+rpoB,Rifampicin,1292,G - C,431,Ser - Thr,Brazil,29779775
+rpoB,Rifampicin,508,G - T,170,Val - Phe,Mozambique,29779775
+rpoB,Rifampicin,1532,T - C,511,Leu - Pro,NA,29779779
+rpoB,Rifampicin,1537,C - A,513,Gln - Lys,NA,29779779
+rpoB,Rifampicin,1546,G - T,516,Asp - Tyr,NA,29779779
+rpoB,Rifampicin,1576,C - G,526,His - Asp,NA,29779779
+rpoB,Rifampicin,1576 - 1578,NA,526,His - Cys,NA,29779779
+rpoB,Rifampicin,1578,NA,526,His - Gln,NA,29779779
+rpoB,Rifampicin,1577,A - T,526,His - Leu,NA,29779779
+rpoB,Rifampicin,1591 - 1593,NA,531,Ser - Gln,NA,29779779
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,NA,29779779
+rpoB,Rifampicin,1598,T - C,533,Leu - Pro,NA,29779779
+rpoB,Rifampicin,1532,CTG - CCG,511,Leu - Pro,Changchun in China,29788948
+rpoB,Rifampicin,1538,CAA - CCA,513,Gln - Leu,Changchun in China,29788948
+rpoB,Rifampicin,1537,CAA - AAA,513,Gln - Lys,Changchun in China,29788948
+rpoB,Rifampicin,1547,GAC - GGC,516,Asp - Gly,Changchun in China,29788948
+rpoB,Rifampicin,1546,GAC - TAC,516,Asp - Tyr,Changchun in China,29788948
+rpoB,Rifampicin,1547,GAC - GTC,516,Asp - Val,Changchun in China,29788948
+rpoB,Rifampicin,1577,CAC - CTC,526,His - Leu,Changchun in China,29788948
+rpoB,Rifampicin,1576,CAC - TAC,526,His - Tyr,Changchun in China,29788948
+rpoB,Rifampicin,1592,TCG - TTG,531,Ser - Leu,Changchun in China,29788948
+rpoB,Rifampicin,1598,CTG - CCG,533,Leu - Pro,Changchun in China,29788948
+rpoB,Rifampicin,NA,NA,531,Ser - Leu,China,26486879
+rpoB,Rifampicin,NA,NA,526,His - Tyr ,China,26486879
+rpoB,Rifampicin,NA,NA,516,Asp - Val,China,26486879
+rpoB,Rifampicin,NA,NA,526,His - Asp,China,26486879
+rpoB,Rifampicin,NA,NA,526,His - Arg,China,26486879
+rpoB,Rifampicin,1592,C - T,531,Ser - Leu,Spain,27586016

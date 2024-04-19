@@ -1,0 +1,36 @@
+Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+embC,Ethambutol,2941,GTG - CTG,981,Val - Leu,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embC,Ethambutol,809,ACC - ATC,270,Thr - Ile,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embC,Ethambutol,13,GGT - AGT,5,Gly - Ser,United States and Mexico and Europe and Yemen and the Philippines and Japan and India,9257740
+embC,Ethambutol,1180,AAC - GAC,394,Asn - Asp,United States and Russia,10639358
+embC,Ethambutol,2213,CGG - CAG,738,Arg - Gln,United States and Russia,10639358
+embC,Ethambutol,752,CTG - CGT,251,Leu - Arg,India,16972132
+embC,Ethambutol,761,GCC - GGC,254,Ala - Gly,India,16972132
+embC,Ethambutol,976 - 978,TGG - CGT,326,Trp - Arg,India,19010731
+embC,Ethambutol,863 - 864,GGC - GTG,288,Gly - Val,India,19010731
+embC,Ethambutol,886 - 888,TAT - AGC,296,Tyr - Ser,India,19010731
+embC,Ethambutol,925 - 927,TAT - AAC,309,Tyr - Asn,India,19010731
+embC,Ethambutol,862 - 864,GGC - TGG,288,Gly - Trp,India,19010731
+embC,Ethambutol,979 - 981,TAT - AAC,327,Tyr - Asn,India,19010731
+embC,Ethambutol,904 - 906,CGT - GGC,302,Arg - Gly,India,19010731
+embC,Ethambutol,973,GGC - AGC,325,Gly - Ser,India,19010731
+embC,Ethambutol,898 - 900,ATG - CGT,300,Met - Arg,India,19010731
+embC,Ethambutol,853,CAT - TAT,285,His - Tyr,India,19010731
+embC,Ethambutol,886 - 888,TAT - CAT,296,Tyr - His,India,19010731
+embC,Ethambutol,739 - 741,GCC - CCG,247,Ala - Pro,India,19010731
+embC,Ethambutol,923 - 924,GGC - GAT,308,Gly - Asp,India,19010731
+embC,Ethambutol,929 - 930,ATG - AAA,310,Met - Lys,India,19010731
+embC,Ethambutol,908 - 909,GTG - GGC,303,Val - Gly,India,19010731
+embC,Ethambutol,890 - 891,ATT - ACC,297,Ile - Thr,India,19010731
+embC,Ethambutol,859 - 861,GTG - TTT,287,Val - Phe,India,19010731
+embC,Ethambutol,730 - 732,GCG - ACC,244,Ala - Thr,India,19010731
+embC,Ethambutol,919 - 921,GCG - ACC,307,Ala - Thr,India,19010731
+embC,Ethambutol,814 - 815,GGC - GAC,272,Gly - Ser,India,19010731
+embC,Ethambutol,889 - 891,ATT - TTG,297,Ile - Leu,India,19010731
+embC,Ethambutol,889 - 891,ATT - CTG,297,Ile - Leu,India,19010731
+embC,Ethambutol,809 - 810,ACC - ATT,270,Thr - Ile,India,19010731
+embC,Ethambutol,448,CCG - TCG,150,Pro - Ser,China,25605360
+embC,Ethambutol,2174,CAG - CGG,725,Gln - Arg,China,25605360
+embC,Ethambutol,1180,AAC - GAC,394,Asn - Asp,China,29084750
+embC,Ethambutol,987,GAC - GA(A / G),329,Asp - Glu,China,29084750
+embC,Ethambutol,809,ACC - ATC,270,Thr - Ile,China,29084750
