@@ -1,4 +1,4 @@
-Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 pncA,Pyrazinamide,413,TGT - TAT,138,Cys - Tyr,Colorado in United States,8640557
 pncA,Pyrazinamide,187,GAC - CAC,63,Asp - His,Colorado in United States,8640557
 pncA,Pyrazinamide,422,CAG - CCG,141,Gln - Pro,United States,8640557
