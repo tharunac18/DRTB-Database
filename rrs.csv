@@ -1,4 +1,4 @@
-Gene,Drug,Nucleotide Position,Mutation,Amino Acid Position,Mutation,Sample Location,Reference (as Journal or PMID)
+Gene,Drug,Nucleotide Position,Nucleotide Mutation,Amino Acid Position,Amino Acid Mutation,Sample Location,Reference (PMID)
 rrs,Streptomycin,512,C - Insertion,NA,NA,NA,7540819
 rrs,Streptomycin,904,C - A,NA,NA,NA,7914261
 rrs,Streptomycin,904,C - G,NA,NA,NA,7914261
